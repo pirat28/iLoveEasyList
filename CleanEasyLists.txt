@@ -121,6 +121,7 @@
 104.195.62.12
 104.197.140.120
 104.198.198.188
+104.37.245.11
 106.187.95.251
 1063bac0d855f4e67bd4.date
 108.171.248.234
@@ -3734,7 +3735,6 @@ autokarykatowice.pl
 autolikarnya.com.ua
 automaatbak-spoelen.eu
 automair.com
-automate-prod.s3.amazonaws.com
 automation.service.euro-system-security.info
 automoc.net
 automotrizrocka.com
@@ -4163,6 +4163,7 @@ baothainews.info
 bapalolo.com
 bapaquac.com
 bapatconsultants.com
+bapkt.com
 bapuviralhain.com
 barbaros.com
 barbarossa.ro
@@ -5002,6 +5003,7 @@ bonusdonat.ru
 bonusm4b.beget.tech
 bonusmyonlineservices.com
 bonusroulette.org
+bonus.tvmaze.com
 bookav.net
 bookkeeperbaltimore.com
 bookmark.t2t2.com
@@ -6919,6 +6921,7 @@ content.livesportmedia.eu
 contentpap.info
 content.streamplay.to
 continertal-pe.win
+continuedsys.cn
 continue-steep.000webhostapp.com
 continue-to-notification-facebook.com.maleeltd.com
 continue-unblock.000webhostapp.com
@@ -7461,6 +7464,7 @@ czqmc.com
 czwndl.com
 czxzpabxb.ovh
 czyszczeniekrakow.pl
+czzdf.com
 d02e96f2b572b933dd4.com
 d0p21g2fep.com
 d0v5g1vb.top
@@ -7489,6 +7493,7 @@ d15gt9gwxw5wu0.cloudfront.net
 d160mt023h8h3d.cloudfront.net
 d162nnmwf9bggr.cloudfront.net
 d1635hfcvs8ero.cloudfront.net
+d167sl77k83rtf.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16dqaga5j0fjm.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
@@ -7507,6 +7512,7 @@ d1a6pzosbglc5p.cloudfront.net
 d1ade4ciw4bqyc.cloudfront.net
 d1aezk8tun0dhm.cloudfront.net
 d1afet533lf7zs.cloudfront.net
+d1ar5xirbydtuc.cloudfront.net
 d1auwh1li83eb9.cloudfront.net
 d1az0m14mjvs40.cloudfront.net
 d1bevsqehy4npt.cloudfront.net
@@ -9230,10 +9236,7 @@ dvt4pepo9om3r.cloudfront.net
 dvyiub.com
 dw998.com
 dwbgdywefi.myjino.ru
-dw.cbsi.com
-dw.cbsimg.net
 dw.cnet.com
-dw.com.com
 dwcreations.net
 dwdpi.co.kr
 dwebdesign.web.id
@@ -14273,6 +14276,7 @@ jbxcentroautomotivo.com.br
 jbyrvqrqx.net
 jbyy010.com
 jc1.dayfund.cn
+jcdb88.com
 jcdsystem.com
 jchen5072.000webhostapp.com
 jcist.000webhostapp.com
@@ -14418,6 +14422,7 @@ jinchenglamps.com
 jindier.com
 jindu179.com
 jingavot.com
+jingdayiyuan.com
 jinghuazhijia.com
 jinicettp.com
 jinriyunlian.com
@@ -14775,6 +14780,7 @@ jvlqkkutcpgjtwyu2atl.littlematchagirl.com.au
 jvlqkkutcpgjtwyu2atl.maherstcottage.com.au
 jvmiranda.com.br
 jwelleryfair.xyz
+jwiyr.com
 jwpooleinc.com
 jwpray.com
 jwqj.net
@@ -17077,6 +17083,7 @@ menfreeman.com
 mengchengbao.com
 menghuanzs.com
 mengmengdas.com
+mengpr.com
 menloenergyllc.com
 mennber.sgx7k7cnu4qk6vp2w.gdn
 menstripgifts.com
@@ -18184,6 +18191,7 @@ nepalhimalayantrekking.com
 nepalhtml.com
 neqbzz4p.top
 nereeapma2.temp.swtest.ru
+nernv.com
 nest.youwatch.org
 net4um.com
 net-aktualisierung-zahlungsdaten-sicherheit.gdn
@@ -20044,6 +20052,7 @@ ping.smyte.com
 pings.reembed.com
 pings.vidpulse.com
 pingting.biz
+ping.tvmaze.com
 pinkdreaminc.us
 pinkpillar.ru
 pinoydramas428.website
@@ -25238,6 +25247,7 @@ tenorsoftware.com
 tentoepiskevi.gr
 tentsf05luxfig.rr.nu
 tentudiateatro.com
+tequanma.com
 terassss.000webhostapp.com
 tereciabrownphotography.com
 teresadugicateachcomau.000webhostapp.com
@@ -29097,6 +29107,7 @@ yuracqori.com
 yuuuvutcxmgxsknp.com
 yuxiny.com
 yuxiwine.com
+yuxyz.com
 yuyyio.com
 yvigoc1dulw7jtrufnas.maherstcottage.com.au
 yvpewdlid.com
