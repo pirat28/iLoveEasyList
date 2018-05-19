@@ -4419,6 +4419,7 @@ bd1.szhk.com
 bd1.wowoqq.com
 bd1.xiangha.com
 bd1.xiby.cn
+bd1.yidu.cc
 bd3.chuiyue.com
 bdad.gaotie.net
 bdad.hao224.com
@@ -8956,6 +8957,7 @@ d.nativendo.de
 dna.uol.com.br
 dncorg.com
 dndchile.cl
+dnfeu.com
 dnliren.com
 dnn506yrbagrg.cloudfront.net
 dns01.pspvprovalencia.org
@@ -17468,6 +17470,7 @@ mhfitnesspilates.com
 mhnrw.com
 mhsn.edu.bd
 mhstolmmq.com
+miaiche.cn
 mialospars.com
 miamiartmagazine.online
 miamibeachhotels.tv
@@ -18716,6 +18719,7 @@ nmkgs.cn
 nm.newegg.com
 nmpcdn.com
 nmqbg.com
+nmtouzi.com
 nmtracking.netflix.com
 nnedbx.com
 nngft.com
@@ -20363,6 +20367,7 @@ pivecino.webcindario.com
 pix.eads.com
 pixel.1und1.de
 pixel.4players.de
+pixel.anyclip.com
 pixel.bild.de
 pixel.buzzfeed.com
 pixel.colorupmedia.com
@@ -29031,6 +29036,7 @@ xitongku.cc
 xiugaiba.com
 xizfabexzexy.hol.es
 xjidian.com
+xjtxcj.com
 xjzyq.com
 xk2012.com
 xkanf.com
