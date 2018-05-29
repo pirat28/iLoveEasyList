@@ -722,6 +722,7 @@
 52lubo.cn
 52porn.net
 52puman.com
+52tushuo.com
 534fd36740e66ca9c.com
 538b5d8f303be.com
 53ertt555.from-mn.com
@@ -4508,6 +4509,7 @@ beacon.search.yahoo.com
 beacon.securestudies.com
 beacons.helium.com
 beacon.sina.com.cn
+beacons.mediamelon.com
 beacon.sojern.com
 beacon.squixa.net
 beacon.statful.com
@@ -6428,7 +6430,6 @@ ciqpackaging.com
 circuitair.com
 ciridola.com
 cisaqroup.net
-cis.schibsted.com
 citadelcochin.com
 citalise.com
 citibuildersgroup.com
@@ -7826,6 +7827,7 @@ d2b560qq58menv.cloudfront.net
 d2b65ihpmocv7w.cloudfront.net
 d2b7n13v8adl6f.cloudfront.net
 d2bgg7rjywcwsy.cloudfront.net
+d2cgumzzqhgmdu.cloudfront.net
 d2cxkkxhecdzsq.cloudfront.net
 d2d2lbvq8xirbs.cloudfront.net
 d2dxgm96wvaa5j.cloudfront.net
@@ -8356,6 +8358,7 @@ dcvaad06ad-system.esy.es
 dcxbmm.com
 dczj9zildizai.cloudfront.net
 dd6d6d21a22e.com
+dd6zx4ibq538k.cloudfront.net
 ddanq.com
 ddasdeadmsilatmaiui.arlamooz.net
 ddcmczmw4qynrqak6.gdn
@@ -10001,6 +10004,7 @@ enmedyatik.us
 en.minormetal.cn
 en.ntdzkj.com
 ennvoy.com
+enolatekoa.com
 enormon.ga
 enousouz.info
 enp1xfxf.top
@@ -11186,6 +11190,7 @@ foodstests.com
 foodtasticfinds.com
 foodtolerance.com
 foothillsmc.com.au
+footprint.anetwork.ir
 fopirm.gq
 foras-trading.kz
 ford-nsk.su
@@ -13779,6 +13784,7 @@ img2.titan007.com
 img.3sjt.com
 img80.net
 img.9duw.com
+imgadsame.liba.com
 imgggadpic.oss-cn-shenzhen.aliyuncs.com
 img.meipic.net
 img.petit.lv
@@ -15946,6 +15952,7 @@ leadscoins.network
 leadtracking.plumvoice.com
 league-brute-force.tk
 leahram.daimlercruiz.ml
+leamain.net
 leanerqa.com
 leanoral.info
 learn2blean.com
@@ -17313,6 +17320,7 @@ mdt.grandtraversedesign.com
 mdwyerle.myhostpoint.ch
 mealsandsteals.sandiego6.com
 mearrs.com
+measure.ameblo.jp
 measurementaz.com
 meatspin.biz
 mebankonline.com
@@ -18692,6 +18700,7 @@ news-email-link-ne.com
 newservoppl.it
 news.followerinfo.xyz
 newsite.ahlgrens.se
+newsletter.bdnews24.com
 news-notification.tools
 newspp-payment.com
 newsreader.site
@@ -18744,6 +18753,7 @@ nez-travelgodaddyinc.com
 nez-travelsite.com
 n-facebook.cf
 nfbooster.gr
+nfkos.com
 nfkv7.top
 ngadepgusti.com
 ngaiwah.com.my
@@ -19542,7 +19552,6 @@ otelpusulasi.com
 otiose-clip.000webhostapp.com
 otooleautoglass.com
 otramano.org
-ou188.com
 oudduitseherder.racing
 ounicred.com
 oupe71eiun.com
@@ -26321,6 +26330,7 @@ tk.kargo.com
 tkpi.delta.com
 tkxerw.com
 tkzwhdyk.com
+t.leady.com
 t.leady.cz
 tlidjenegroup.000webhostapp.com
 tljchc.org
@@ -26722,6 +26732,7 @@ tracking.yourfilehost.com
 track.juno.com
 track.kandle.org
 track.leadin.com
+track.leady.cz
 track-lost-device.co.za
 track.mailerlite.com
 track.mdsmatch.com
@@ -28386,6 +28397,7 @@ watson.live.com
 wa.ui-portal.de
 waves-claimbonus.com
 wavestechco.com
+wawinamilmay.com
 way2forget.net
 way2vidya.com
 wayne213.000webhostapp.com
@@ -30034,7 +30046,6 @@ zaklabe.ru
 zal-inkasso.net
 zamanlar2.com
 zamaramusic.es
-zamar.cn
 zamitech.com
 zamopanjilok.com
 zango.com
