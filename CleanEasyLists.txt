@@ -2752,6 +2752,7 @@ analytics.gazeta.pl
 analytics.global.sky.com
 analytics.go.com
 analytics.gorillanation.com
+analytics.groupe-seb.com
 analytics.grupogodo.com
 analytics.gvim.mobi
 analytics.hosting24.com
@@ -14769,6 +14770,7 @@ jcist.000webhostapp.com
 jcm.jd.com
 jcng23.000webhostapp.com
 jcoqtmtrzhedkv1p9bi9.littlematchagirl.com.au
+jcwwxn.com
 jczzjx.com
 jdavidfranzke.com
 jdbd100.com
@@ -20751,6 +20753,7 @@ picturedrop.d1688.net
 picturepof.com
 pictureshouse.gq
 pictures.myownnewpics.com
+pictures.zooplus.com
 piecehigh.net
 pieceleft.net
 piedmontranches.com
@@ -22448,6 +22451,7 @@ retail.renodio.com
 retajconsultancy.com
 retajukaleter.com
 re.taotaosou.com
+retargeting.vistaprint.com
 retbusiness.com
 retdecor.com.br
 retificansfatima.com.br
