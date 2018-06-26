@@ -7412,6 +7412,7 @@ cookies.forbes.pl
 cookies.innershed.co.uk
 cookies.leadplace.fr
 cookies.livepartners.com
+cookies.nos.nl
 cookies.reedbusiness.nl
 cookies.unidadeditorial.es
 cookietracker.cloudapp.net
@@ -13102,6 +13103,7 @@ hackearwhatsapp.online
 hackfacebookprofiles.com
 hacktohack.net
 hacomunicacion.com
+hades.qyer.com
 haditl.gq
 hadnsomshopper.com
 hadriansviews.com
