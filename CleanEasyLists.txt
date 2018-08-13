@@ -2443,6 +2443,7 @@ alertgooqle.com
 alerts.account.capital-one.com.secure.insidmaldesign.com
 alert-secure-notification.ga
 alert.secure.wells-fargo.checking.account.reinomusical.com
+alerts.ndtv.com
 alerts-system00.000webhostapp.com
 alerts.thedailystar.net
 alert-virus-infection.com
@@ -5892,6 +5893,7 @@ b.thefile.me
 btig3di.com
 btightyuild.ga
 bt.ilsemedia.nl
+btmp4.net
 btn.clickability.com
 btn.onlylady.com
 btn.pchome.net
@@ -11215,7 +11217,10 @@ ensembliers-interiors.com
 ensenadasportfishing.com
 ensis.eng.br
 enslinhomes.com
+ens.luzernerzeitung.ch
+ens.nzz.ch
 ensscapital.com
+ens.tagblatt.ch
 ent1.12584.cn
 ent7.fc-training.co.uk
 enteder.com
@@ -21685,6 +21690,7 @@ notifications-team2017.000webhostapp.com
 notificationyourspage.cf
 notificatiopages.cf
 notificetionwem.fr.nf
+notifiche.secoloditalia.it
 notify-facebook-account.com
 notify.hindustantimes.com
 notiluxe.fr
@@ -23573,7 +23579,6 @@ platnosc.kurierzyplatnosci.online
 platnosc.oplackuriera.online
 plattform.deruwia.de
 plawdcs.net
-playad.xjmg.com
 player.1800coupon.com
 player.1stcreditrepairs.com
 player.800directories.com
@@ -29869,6 +29874,7 @@ themodules.ru
 themokaortmdesc.org
 themostpopularexercisequestions.net
 thenabler.com
+thenational-gb.thenational.scot
 thenaturejournal.ca
 thenetworkstorage.co.uk
 thenewcoin.com
