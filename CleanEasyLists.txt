@@ -112,6 +112,7 @@
 0x01e7.website
 0x1f4b0.com
 0xxd.com
+0z5jn.cn
 0zrnafy0cm1cqvg3g6ey.littlematchagirl.com.au
 100000munkahely.hu
 100032351.hol.es
@@ -2504,7 +2505,9 @@ alerts.account.capital-one.com.secure.insidmaldesign.com
 alert-secure-notification.ga
 alert.secure.wells-fargo.checking.account.reinomusical.com
 alertserviciewellsfargoauth8.000webhostapp.com
+alerts.ndtv.com
 alerts-system00.000webhostapp.com
+alerts.thedailystar.net
 alert-virus-infection.com
 aletabarker.com
 aletedevat.com.tr
@@ -6668,6 +6671,7 @@ cct2.o2online.de
 cctjly.com
 cctyly.com
 ccumhss.com
+ccunf.com
 ccvoices.000webhostapp.com
 ccycny.com
 cc.zeit.de
@@ -6836,6 +6840,7 @@ cfll.in
 cfmps-impts-aj.com
 cfnmking.com
 cf.overblog.com
+cf-particle-html.eip.telegraph.co.uk
 cfqpxzx.com
 cfrandle.ironside.tk
 cfrchildcare.com
@@ -7614,6 +7619,7 @@ cnfanglei.com
 cnghs.edu.bd
 cnhbxx.com
 cni58.com
+cnil.links-lab.fr
 cninin.com
 cnkok.com
 cn-lushan.com
@@ -8043,6 +8049,7 @@ connect.summit.co.uk
 conquer.wybconsultores.cl
 conquistatucumbre.com.ar
 conradcycles.me
+consent.cmp.oath.com
 conservational-book.000webhostapp.com
 considered.fdns.uk
 consivenew.com
@@ -8121,9 +8128,18 @@ conyapa.com
 coo8quo.top
 cookieatatime.ca
 cookiebyte.in
+cookie.gazeta.pl
+cookie.oup.com
+cookies.fakt.pl
+cookies.forbes.pl
+cookies.innershed.co.uk
+cookies.leadplace.fr
 cookies.livepartners.com
+cookies.nos.nl
 cookies.reedbusiness.nl
+cookies.unidadeditorial.es
 cookietracker.cloudapp.net
+cookie.wieni.be
 cookiex.ngd.yahoo.com
 coolbus.am
 cooleroni.com
@@ -8609,6 +8625,7 @@ cupqq.com
 cuprovyg.com
 curacao.memento-vivi.com
 curate.nestedmedia.com
+curate.venturebeat.com
 curbappealdesign.biz
 curepipe.zezivrezom.org
 cure.wfbank.pro
@@ -8862,6 +8879,7 @@ d1ssbq1bwjg5ux.cloudfront.net
 d1tygkkxabxtvv.cloudfront.net
 d1u3772ihhjzwu.cloudfront.net
 d1uanozc5el74n.cloudfront.net
+d1uh1a7az90pt0.cloudfront.net
 d1uy7uzra011au.cloudfront.net
 d1uydqzj7b9nt9.cloudfront.net
 d1v6js7bjzmhoa.cloudfront.net
@@ -8993,6 +9011,7 @@ d2pxbld8wrqyrk.cloudfront.net
 d2q039yelpk33c.cloudfront.net
 d2q52i8yx3j68p.cloudfront.net
 d2qz7ofajpstv5.cloudfront.net
+d2r1yp2w7bby2u.cloudfront.net
 d2r359adnh3sfn.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
 d2s64zaa9ua7uv.cloudfront.net
@@ -9178,6 +9197,7 @@ d55fgfgf.webcindario.com
 d59fa492f75f520.com
 d5c18469d17cb1d1.com
 d5em5plenp2k5.cloudfront.net
+d5k6iufjynyu8.cloudfront.net
 d5ou3dytze6uf.cloudfront.net
 d5pvnbpawsaav.cloudfront.net
 d5z42oph1suk.cloudfront.net
@@ -9283,6 +9303,7 @@ daltontrail.com
 daltontvrepair.com
 damarmilligan.com
 damavader.com
+dam.bbcchannels.com
 damdifino.net
 da.mgtv.com
 damlakitchen.com
@@ -9469,6 +9490,7 @@ dbsa-dream.com
 dbs.autolatest.ro
 dbsbanklimited.com
 dbsverifica.net
+dbu7.jandan.net
 d.businessinsider.com
 dbvault.net
 dbwmjj.com
@@ -9934,6 +9956,7 @@ dhlparcel.southtoch.com
 dhlworldwide.com.varifyaddress.process.scholleipn.org
 dhlyteam4dhlsupport.netau.net
 dhodha.com
+dhpikd1t89arn.cloudfront.net
 dhqhospitalmianwali.com
 dhruvsilver.com
 dhsnystate.com
@@ -12857,6 +12880,7 @@ forkmola.com
 formaticul.com
 formayoga.com
 formigadoce.com.br
+forms.windowsitpro.com
 formulaire-remboursement-ameli.com
 formulaire-remboursement-amelie.eu
 formulariohome.com
@@ -13190,6 +13214,7 @@ fw3a.lbarch.co.za
 fw4a.lbarch.co.za
 fw5e8yga.top
 fwckiacjta.bradul.creatory.org
+fwjoi.com
 fwlth.saqibsiddiqui.com
 fwt0.com
 fxcopy786.com
@@ -13427,6 +13452,8 @@ gdoc.nanomidia.com.br
 gdocs.download
 g-docs.pro
 gdocs.win
+gdpr.internetbrands.com
+gdpr.prisa.com
 gdpttpyvcuvav.com
 gdriiiiiivv.com
 gdrivesever.000webhostapp.com
@@ -14079,6 +14106,7 @@ grandmatou.net
 grandpa.thebehrs.ca
 granpex.pl
 granthamcarpets.co.uk
+grantt.jandan.net
 graphic-design-2016.ru
 graphicoustic.com.au
 graphicsinfomedia.com
@@ -19130,7 +19158,6 @@ log.webnovel.com
 log.wilmaa.com
 logwoodonline.com
 log.worldsoft-cms.info
-logx.tamilyogi.fm
 log.ynet.com
 logz.ikimfm.my
 loislgibe.top
@@ -19549,6 +19576,7 @@ maik.ff-bt.net
 mail3x.com
 mailcom.date
 mailgen.date
+mailmunch.s3.amazonaws.com
 mailsee.liffeytas.com.au
 mail.siriedteam.com
 mail-verification.com
@@ -19715,6 +19743,7 @@ m.anyfiles.ovh
 maokdata.com
 maoled.ga
 maotata.com
+maoyumao.net
 mapbest.net
 mapena.ac.id
 maperla.com.au
@@ -20015,6 +20044,7 @@ mdnfgs.com
 mdpev.de
 mdpwebsitesolutions.com
 mdsignsbog.com
+mdsngpush.finanzen.net
 mdtemmanouil.gr
 mdt.grandtraversedesign.com
 mdwyerle.myhostpoint.ch
@@ -21833,6 +21863,8 @@ news-email-link-ne.com
 newservoppl.it
 news.followerinfo.xyz
 newsite.ahlgrens.se
+newsletter.bdnews24.com
+newsletters.vocento.com
 news-notification.tools
 newspp-payment.com
 newsreader.site
@@ -22174,7 +22206,9 @@ notifications-team2017.000webhostapp.com
 notificationyourspage.cf
 notificatiopages.cf
 notificetionwem.fr.nf
+notifiche.secoloditalia.it
 notify-facebook-account.com
+notify.hindustantimes.com
 notiluxe.fr
 notjustng.net
 nots.com.tr
@@ -24225,6 +24259,7 @@ polemic-prisms.000webhostapp.com
 poleznoevseti.ru
 poli12.bid
 policester.info
+policies.warnerbros.com
 policyaccountactive.gq
 policyforlife.com
 policy-renew-fb-mobile.online
@@ -24536,7 +24571,11 @@ prismjobs.in
 prismpharmasmachinery.com
 pritambhattacharjee.com
 privacypolicy.co.business
+privacyportal.fatergroup.com
+privacy.purch.com
+privacy.schibsted.com
 privacy-settings.tk
+privacy.totaaltv.nl
 prival.co
 privatcamvideo.de
 privatecustomer-support.com
@@ -24898,6 +24937,7 @@ purplesteel.com
 pushame.com
 pushbaddy.com
 pushbasic.com
+push.cnnindonesia.com
 pushdusk.com
 pushimer.com
 pushmenews.com
@@ -26107,6 +26147,7 @@ rodbosscum.com
 roddw.com
 rodirola.com
 rodneys-shop.com
+rodo.agora.pl
 rodojettransportes.com.br
 rodolfomp.pw
 rodrigofontoura.com.br
@@ -27727,6 +27768,7 @@ shaparaknet.ir
 shapeuptraining.com.au
 sharacorepoz.com
 share31.co.id
+share.baidu.com
 shared.65twenty.com
 sharedaddomain.com
 shareddocs.net
@@ -28458,6 +28500,7 @@ soccerinsider.net
 socdm.com
 soceron.org.br
 sociablepreterition.com
+social.dw.de
 socialfacebook.com
 social-genius.co.uk
 socialincome.in
@@ -28721,6 +28764,7 @@ sp.jsonline.com
 spkinobe.com
 sp.kitsapsun.com
 spkkursu.gen.tr
+sp.knowyourmeme.com
 sp.knoxnews.com
 sp.lancastereaglegazette.com
 sp.lansingstatejournal.com
@@ -30519,6 +30563,7 @@ themodules.ru
 themokaortmdesc.org
 themostpopularexercisequestions.net
 thenabler.com
+thenational-gb.thenational.scot
 thenaturejournal.ca
 thenetworkstorage.co.uk
 thenewcoin.com
@@ -30769,6 +30814,7 @@ tmcs.net
 tmdmagento.com
 t.menepe.com
 tmfilms.net
+tmform.azurewebsites.net
 tmgr.ccmbg.com
 tmhouserent.trade
 tmjitzfa9sh5s6j4iaz4.littlematchagirl.com.au
@@ -31603,6 +31649,7 @@ twinsmacau.com
 twinspack.com
 twistings.viedemerde.fr
 twistpub.com.br
+twitter-badges.s3.amazonaws.com
 twitterzs.com
 twittter.hol.es
 twk20rw5v1.com
@@ -33634,6 +33681,7 @@ widgets.mywai.de
 widget.solarquotes.com.au
 widgets.realestate.com.au
 widgetssec.cam-content.com
+widgets.sprinkletxt.com
 widgets.stackcommerce.com
 wie9eig.top
 wiedemann.com
@@ -35214,6 +35262,7 @@ zgjkv.com
 zgksb.com
 zg.mmyuer.com
 zgoc.com.au
+zgody.infor.pl
 zgopxgi9uqlgoioatuuc.littlematchagirl.com.au
 zgsjfo.com
 zgsxhx.com
