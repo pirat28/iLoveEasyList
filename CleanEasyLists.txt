@@ -617,7 +617,6 @@
 3761fcd24ef9281f5.com
 376zf.com
 377d936c10e6811f484c-6402e46c712497f58e3f77a59f47bbd5.r17.cf2.rackcdn.com
-3798.com
 380.bu2z.com
 380.hotpix.fr
 38145f2301c27639ac.com
@@ -9495,6 +9494,7 @@ dashboardjp.com
 dashboard.stripe.verification.canowm.com
 dashbord-locked-acces-my.com
 dashet.com
+dash.tmearn.com
 daskals.com
 daskm.com
 dasp.org.pk
@@ -9584,6 +9584,7 @@ db.creditcard
 dbdoc-views.d3an1ght.com
 dbedlm.services
 dbfshgwqr.000webhostapp.com
+dbiej.com
 dbissue.com
 dbjsbtaprntqertmkty.bid
 dbncp.com
@@ -19193,6 +19194,7 @@ log.deutschegrammophon.com
 logdev.openload.co
 log.flight.qunar.com
 logger.dailymotion.com
+logger.kataweb.it
 logger.logidea.info
 logger.nerdwallet.com
 logger.rm.uol.com.br
@@ -30427,6 +30429,7 @@ tazozuatonline.com
 tbaludhiana.com
 tbaocdn.com
 tbaong.co
+tbenq.com
 t.beopinion.com
 tbe.tom.ru
 tbhomeinspection.com
