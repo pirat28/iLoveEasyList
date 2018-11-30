@@ -6923,7 +6923,6 @@ certified-balances.000webhostapp.com
 cert-mps.net
 certov.at
 certuto.club
-certxpert.com
 cervejariacacique.com.br
 cesaco.com
 cesartech.com
@@ -9289,6 +9288,7 @@ d3m41swuqq4sv5.cloudfront.net
 d3m79ugzs2d8im.cloudfront.net
 d3mcf0n3hvvfk4.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
+d3n6i6eorggdxk.cloudfront.net
 d3ncat0syb6rim.cloudfront.net
 d3noqwmgo39at7.cloudfront.net
 d3nvrqlo8rj1kw.cloudfront.net
@@ -11565,7 +11565,6 @@ encoding.8openid.assoc.handle.usflexopenid.claimed.id.asdwe21a1e23few143ew.wt154
 encoding.ovh
 encuentrodemusicos.com
 encycloscope.com
-end70.com
 endeavorlc.net
 endeveren.com
 endif.000webhostapp.com
@@ -17490,6 +17489,7 @@ jpbrewier.000webhostapp.com
 jpbrooksphotography.com
 jp-chase.updecookies.netau.net
 jpdyechem.com
+jpg1.oss-cn-beijing.aliyuncs.com
 jpgastemerin.rs
 jpmorganchaseauthe.ghaffarigroup.com
 jpmorgan-chase.ml
@@ -26768,6 +26768,7 @@ rzhsl.info
 rzltapl2.myhostpoint.ch
 rzltimpo.myhostpoint.ch
 rzmarinesafety.com
+s06th.cn
 s0c572u6iu4x3b05rdso.alfacomercial.com.br
 s0e3nwd7mhf45sghuds3.businessrulesanalysis.com
 s1-a1.dnvod.tv
@@ -30594,6 +30595,7 @@ tc600.com
 tc.airfrance.com
 tc-avrora38.ru
 t.cfjump.com
+tchep.com
 tchetorkin.ru
 t.cinemablend.com
 tcjy66.cc
@@ -33344,6 +33346,7 @@ vk5kqc8a8bqffeguw.science
 vk87557876-video.hol.es
 vk8hhc7ujs.castlemedicolegal.com
 vk-activation.esy.es
+vkadmin.info
 vkafirac.com
 vkanime1.000webhostapp.com
 vkantakte.ga
@@ -33599,6 +33602,7 @@ waitnoise.net
 waitunder.net
 wajoobaba.com
 wakandumetrading.com
+wakanfoundation.com
 wakapita.com
 wakejournal.com
 wakeupanddreamchallenge.info
@@ -33761,6 +33765,7 @@ webandcraft.com
 webanjo.com.br
 webappdpt.000webhostapp.com
 webapp-resolvedid-updateacounts-safetys.kntlo32-systemed.com
+webapps9282.serveirc.com
 webapps-intl.ca-updated.com
 webapps.paypal.com.secure.authflow-account.management
 webapps.paypal.com.signin.trukt.biz
@@ -34252,6 +34257,7 @@ winemation.info
 win.enterfree.club
 winesagency.co.ke
 winfoaccountupdatecmecheldq.webeden.co.uk
+winfreesupport.club
 wingdalefawnskin.com
 wingsofthesky.com
 winmit.com
