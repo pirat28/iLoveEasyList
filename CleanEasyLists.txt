@@ -19306,6 +19306,7 @@ log.51cto.com
 log.aimtell.com
 log.bitauto.com
 log.circle.com.ng
+log.cizion.com
 log.data.disney.com
 log.deutschegrammophon.com
 logdev.openload.co
@@ -29162,6 +29163,7 @@ speedex.me
 speedlinkdown.com
 speedtrap.shopdirect.com
 speed.wikia.net
+speee-ad.akamaized.net
 speeltuingeenhoven.nl
 speerperformance.com
 spendentaly.info
@@ -35697,6 +35699,7 @@ yves10.square7.ch
 yvigoc1dulw7jtrufnas.maherstcottage.com.au
 yvpewdlid.com
 yvymaraey.org
+ywadf.cn
 ywbwsm.com
 ywjxsp168.cn
 ywrjgzs.com
@@ -35941,6 +35944,7 @@ zietop.cf
 zigoh.com
 ziheyuan.com
 zihotelsandtours.co.zw
+ziig.com.cn
 ziillowhouses.us
 ziiraat-subegiris.com
 zik-et-dance.com
