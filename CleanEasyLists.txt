@@ -7603,7 +7603,6 @@ click.app-play-stores.com
 click.bokecc.com
 click.engage.xbox.com
 click.eyk.net
-clickforfreeandready2updating.bid
 click.gamersky.com
 click.geopaysys.com
 click.hay3s.com
@@ -8940,6 +8939,7 @@ d15565yqt7pv7r.cloudfront.net
 d158nafix8anfs.cloudfront.net
 d15cjcet1djbmv.cloudfront.net
 d15gt9gwxw5wu0.cloudfront.net
+d1.5h.com
 d160mt023h8h3d.cloudfront.net
 d162nnmwf9bggr.cloudfront.net
 d1635hfcvs8ero.cloudfront.net
@@ -15022,6 +15022,7 @@ hdrhsy.cn
 hdsrc-a.akamaihd.net
 hdswgc.com
 hdtv9.com
+hduic.com
 hdv1sk62nn56gtrozwrc.viomil.ro
 hdwallpaper.com.co
 hdwallz.ru
@@ -20626,6 +20627,7 @@ mendoc.cn
 menesamjhahi.com
 menfreeman.com
 mengchengbao.com
+mengheyu.com
 menghuanzs.com
 mengmengdas.com
 mengpr.com
@@ -32371,6 +32373,7 @@ u.cnzol.com
 uconcordia.co.pe
 ucounter.ucoz.net
 ucrzgcs.cn
+ucstatic.cn
 uc.xiaoxuehelp.com
 ucxxii.com
 ucylojistik.com
