@@ -6835,6 +6835,7 @@ cdn1.pebx.pl
 cdn1.tvzhe.com
 cdn.adultsadv.com
 cdn-analytics.ladmedia.fr
+cdnbigdata.azureedge.net
 cdnjsp.wang
 cdnny.com
 cdn-partners-references.lesoir.be
@@ -12064,6 +12065,7 @@ events.air.tv
 events.antenna.is
 events.apester.com
 events.bounceexchange.com
+events.chaordicsystems.com
 events-coin-clem.000webhostapp.com
 events-egiftsent.000webhostapp.com
 eventsguru.ml
@@ -14703,6 +14705,7 @@ h148.cn
 h1.kukuw.com
 h1.tvhome.com
 h2aplxtbut.basrabrothers.com
+h2pzh.cn
 h4i4rjwo06kowj4aqd19.littlematchagirl.com.au
 h4i4rjwo06kowj4aqd19.maherstcottage.com.au
 h4qrpdal25iwe6arsmlm.littlematchagirl.com.au
@@ -15846,6 +15849,7 @@ ib.absa.co.za.absa-online.login.jsp.zarmobilefx.cf
 ib.adnxs.com
 ibag-sale.com
 ibanners.empoweredcomms.com.au
+ibaop.com
 ibeat.indiatimes.com
 ibeip.com
 ibericafeltros.com
@@ -20454,6 +20458,7 @@ mdennis2-5.000webhostapp.com
 mdjpslohaibhojpur.com
 mdlbs.motor-talk.de
 mdnfgs.com
+mdous.com
 mdpev.de
 mdpwebsitesolutions.com
 mdsignsbog.com
@@ -30796,6 +30801,7 @@ tdf.ringier.ch
 tdgzin36bqr86m89u4ks.bosch-web-marketing.co.uk
 tdgzin36bqr86m89u4ks.mbservicesyorkshire.co.uk
 tdmouri.swz.biz
+tdoup.com
 tdspanel.com
 tdtsd.com
 tdverify2.com
@@ -35719,6 +35725,7 @@ yongjiang.tmcaster.com
 yongkang6.com
 yoo9ier.top
 yoo.londonbinanddumpsterrental.ca
+yootui19999.com
 yoredi.com
 yorilada.com
 yorkerwis.ga
