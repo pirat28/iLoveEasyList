@@ -3081,6 +3081,7 @@ analytics.anvato.net
 analytics.apnewsregistry.com
 analytics.archive.org
 analytics.artirix.com
+analytics.arz.at
 analytics.atomiconline.com
 analytics.avanser.com.au
 analytics.aweber.com
@@ -7378,6 +7379,7 @@ chicken18.com
 chicken2go.co.uk
 chickolith.com
 chidir.com
+chidsimp.com
 chiem78.000webhostapp.com
 chiffrechristianlotlefaby.net
 chigogroups.com.ng
@@ -9144,6 +9146,7 @@ d1vrcwxei1aj0g.cloudfront.net
 d1vwpe7grtcv9d.cloudfront.net
 d1wi563t0137vz.cloudfront.net
 d1wjj8n9m51z7v.cloudfront.net
+d1wjz6mrey9f5v.cloudfront.net
 d1wscoizcbxzhp.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1xslst46151d.cloudfront.net
@@ -14298,6 +14301,7 @@ gmpharmaceuticals.in
 g.msn.com
 gmyvids.com
 gnadenhofwedemark.de
+gnar.grammarly.com
 gnbzonaseguraweb.com
 gneibvpd.com
 gnjcexms4b5u49hh3v7e.bosch-web-marketing.co.uk
@@ -26614,6 +26618,7 @@ resource.baomihua.com
 resourcecamp.myjino.ru
 resourcesubmitter.com
 responsegenie.com
+response.pure360.com
 responsin.info
 respro.softhofhosting.com
 res.rbl.ms
@@ -29877,6 +29882,7 @@ stat.rum.cdnvideo.ru
 stat.russianfood.com
 stat.ruvr.ru
 stats01.20min.ch
+stats02.topix.com
 stats1.tune.pk
 stats1x1.kapaza.be
 stats2.lightningcast.net
@@ -32299,6 +32305,7 @@ triboteen.com.br
 triction.info
 triedtold.net
 triedwithfire.com
+triggers.wfxtriggers.com
 trigginge.com
 trijayalistrik.com
 trikroacha.com
@@ -35535,6 +35542,7 @@ xmtsyg.com
 xmyodjfrefud.info
 xn--12c3bfbjn4brbb4e7a5cvab3gsn.com
 xn--12c4bfj2hza1ioch.com
+xn6ffc.com
 xn----7sbahm7ayzj1l.xn--p1ai
 xn----7sbhlqiujscje.xn--p1ai
 xn--80aaagge2acs2agf3bgi.xn--p1ai
@@ -35852,6 +35860,7 @@ yeayourcan.com
 yeaysjbfeytrky.com
 yebadu.com
 yee0uexvl6fdfivlrbmr.mbservicesyorkshire.co.uk
+yefu365.com
 yeigrjncmjwsfmvjmr.us
 yekmas.tripod.com
 yekna.com
@@ -36267,6 +36276,7 @@ zeliatech.com
 zelienopleprattsville.com
 zeliteral.info
 zelltek.co.jp
+zencu.com.cn
 zenffs.cn
 zengolese.com
 zenitchampion.cn
