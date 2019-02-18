@@ -9018,6 +9018,7 @@ d2uzayf7r4rh08.cloudfront.net
 d2v02itv0y9u9t.cloudfront.net
 d2v4glj2m8yzg5.cloudfront.net
 d2v9ajh2eysdau.cloudfront.net
+d2va1d0hpla18n.cloudfront.net
 d2vt6q0n0iy66w.cloudfront.net
 d2w7avhumdk0s6.cloudfront.net
 d2w88er3oa79h8.cloudfront.net
@@ -13151,7 +13152,6 @@ fszhxd.com
 ft76531.com
 ftbpharma.com
 fthcz.com
-ftic.qifake.com
 ftop9000.com
 ft.pnop.com
 ftp.oldfortress.net
@@ -14302,7 +14302,6 @@ gtchong.com
 gtcx1ykzyrv9cmmwqi2l.maherstcottage.com.au
 gt.duowan.com
 gtechproauto.us
-g.techweekeurope.co.uk
 g.techweekeurope.it
 gtiou.com
 gt-miappidsrvcuentavrf.com
@@ -25333,6 +25332,7 @@ qhuik.com
 qiailm.com
 qiaopiguniang.com
 qi-duo.com
+qifake.com
 qigemm.com
 qihbmpizoeaiwdxbtpbs.littlematchagirl.com.au
 qii678.com
@@ -25419,6 +25419,7 @@ qthbjuks4rx4jib6iudx.littlematchagirl.com.au
 qthbjuks4rx4jib6iudx.maherstcottage.com.au
 qtmojo.cn
 qtpgb.com
+qtpngov.cn
 qtsnpacuqtiadxudotkc.com
 q.tvnet.lv
 qtwu1.com
