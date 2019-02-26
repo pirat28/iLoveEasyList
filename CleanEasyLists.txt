@@ -2907,6 +2907,7 @@ analytics.closealert.com
 analytics.cmg.net
 analytics.cocolog-nifty.com
 analytics.codigo.se
+analytics.competitoor.com
 analytics.conmio.com
 analytics.convertlanguage.com
 analytics.cynapse.com
@@ -4940,6 +4941,7 @@ bd.hao224.com
 bd.haomagujia.com
 bdiae.com
 bdjb.gai001.com
+bdjiaoben.wmxa.cn
 bdjj.bzr99.com
 bdjj.makepolo.net
 bdjs.163lady.com
@@ -9200,6 +9202,7 @@ d3rmnwi2tssrfx.cloudfront.net
 d3s23f45gh7j8k8cd98cd76jh5gf4d5.000webhostapp.com
 d3s6ctxr1rpcpt.cloudfront.net
 d3s7ggfq1s6jlj.cloudfront.net
+d3sbxpiag177w8.cloudfront.net
 d3sh1r2u9ujvd.cloudfront.net
 d3sir3.com
 d3sskjfdrsmdxn.cloudfront.net
@@ -24259,6 +24262,7 @@ pim14uwcgivjdw8esf8u.mbservicesyorkshire.co.uk
 pimmuter.com
 pimpwebpage.com
 pinaccles.com
+pincidao.cn
 pinckardpyote.com
 pinddanatgaya.com
 pinecliffspremierclub.com
@@ -25407,6 +25411,7 @@ qifake.com
 qigemm.com
 qihbmpizoeaiwdxbtpbs.littlematchagirl.com.au
 qii678.com
+qiji1.jdwx.info
 qinchugudao.com
 qingqu.la
 qingzhencai.net
