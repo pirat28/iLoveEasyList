@@ -6661,6 +6661,7 @@ cdn.adultsadv.com
 cdn-analytics.ladmedia.fr
 cdnbigdata.azureedge.net
 cdnjsp.wang
+cdn.m.okdd.net
 cdnny.com
 cdn-partners-references.lesoir.be
 cdn-ssl-hosting.com
@@ -8756,6 +8757,7 @@ d1.3158.cn
 d134s3bx3cib14.cloudfront.net
 d138am4hd4ke4y.cloudfront.net
 d13czkep7ax7nj.cloudfront.net
+d13jhr4vol1304.cloudfront.net
 d13strl4lo8mtp.cloudfront.net
 d140sbu1b1m3h0.cloudfront.net
 d1447tq2m68ekg.cloudfront.net
@@ -11871,6 +11873,7 @@ eventlog.jackpot.de
 eventosarc.com
 eventosbacus.com
 event.previewnetworks.com
+eventraliaclinental.info
 event-reporting-dot-webylytics.appspot.com
 event.riolabz.com
 events.air.tv
@@ -15460,6 +15463,7 @@ hoyanunciosgratis.com
 hp7cjr78.com
 hpalsowantsff.com
 hpcbxnddgwqjwiwdcphl.ahdaaf.org
+hp-china.biz
 hpdhtxz.tk
 hpdnet.com
 hp-h.us
@@ -31284,6 +31288,7 @@ todayveriys.com
 toddschneider.com
 todoapk.net
 tododinos.pe
+tofretonlepa.info
 toftinhapsandrit.info
 togo666.com
 tojojonsson.com
@@ -33737,6 +33742,7 @@ warnlng-n0tice-z21.gdn
 warp.prnewswire.co.uk
 warrning-fanpa9e1.securittty4.tk
 warrning-fanpa9e2.securittty4.ml
+warron.cn
 warszowka.pl
 warungmakanbulikin.id
 warwickvalleyliving.com
