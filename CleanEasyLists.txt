@@ -1916,6 +1916,7 @@ adds.weatherology.com
 ad.duga.jp
 addvicevodka.com
 ad.edision-nord.it
+ad.edugram.com
 adeelacorporation.com
 adelaidecomputerdoctors.com.au
 adelaidehillsveterinaryacupuncture.com.au
@@ -2532,7 +2533,6 @@ a.kejixun.com
 akela-art.ru
 akhilbhartiyejainmahasabha.in
 akhmjitext.id
-a.kickass.to
 a.killergram-girls.com
 akiyvjiy1z.com
 akkinha-resort.com
@@ -5926,6 +5926,7 @@ bobbyudoh.com
 bob.crazyshit.com
 bobettehannaford.com
 bobindrama.com
+bobotune.com
 bobwanke.000webhostapp.com
 bobynamaku.xyz
 bochka-dub.ru
@@ -19696,6 +19697,7 @@ llszw.saqibsiddiqui.com
 llvez.com
 llwkucyy0oc6ahasjydp.ukhs.edu.bd
 llyodank.managingbyod.com
+lm1.tuliu.com
 lm1.wzpcw.com
 lm6recxr-site.gtempurl.com
 lma7vytui-site.1tempurl.com
@@ -25178,7 +25180,6 @@ plattform.deruwia.de
 plawdcs.net
 play.estream.nu
 play.estream.to
-play.estream.xyz
 playe.vidto.se
 playgas.com.br
 play.js.vidoza.net
@@ -32563,7 +32564,6 @@ track.parse.ly
 trackpm.shop2market.com
 track.prezna.com
 track.pricespider.com
-track.promptfile.com
 track.propelplus.com
 track.pushbullet.com
 track.qcri.org
