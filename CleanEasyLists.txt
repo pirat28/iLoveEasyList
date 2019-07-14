@@ -1808,6 +1808,7 @@ acikdeniz-tr-denizbank.com
 acikdeniztrsube.com
 acikdnz-denizbank.com
 a.cittainforma.com
+ackbure.pro
 ackdeniz-denizbank.com
 acknowing.com
 aclhs.de
@@ -8422,6 +8423,7 @@ cookies.nos.nl
 cookies.reedbusiness.nl
 cookies.unidadeditorial.es
 cookietracker.cloudapp.net
+cookie.vrt.be
 cookie.wieni.be
 cookiex.ngd.yahoo.com
 coolbus.am
@@ -11103,6 +11105,7 @@ dsorubber.com
 dsp.ali213.net
 dspelts.000webhostapp.com
 dsp.wtf
+ds-recommender.styria.hr
 d.srui.cn
 dssct.net
 dstvincapetown.co.za
@@ -17844,7 +17847,6 @@ jndszs.com
 jnhwjyw.com
 jnossidjfnweqrfew.com
 jn.pl.thefiodssd.com
-jnrsjm.com
 jnsdkjzs.com
 jns-travel.co.uk
 jnsz.net.cn
@@ -32483,6 +32485,7 @@ tracker.roitesting.com
 tracker.secretescapes.com
 tracker.shopclues.com
 trackerstatistik.init-ag.de
+tracker.stileo.it
 tracker.streamroot.io
 tracker.thinkindot.com
 tracker.timesgroup.com
@@ -32713,6 +32716,7 @@ trafficfuelpixel.s3-us-west-2.amazonaws.com
 traffic.prod.cobaltgroup.com
 trafficroup.com
 traffic.shareaholic.com
+traffic.styria.hr
 traffic.tuberip.com
 traffok.cn
 traidnetup.com
