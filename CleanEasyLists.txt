@@ -143,7 +143,6 @@
 104.195.62.12
 104.197.140.120
 104.198.198.188
-104.201.27.131
 104.37.245.11
 106.187.95.251
 1063bac0d855f4e67bd4.date
@@ -1955,6 +1954,7 @@ ad.genybet.fr
 adgeo.163.com
 adget.cn
 adgfwf.co
+ad.graciamediaweb.com
 ad.groupon.fr
 adguru.guruji.com
 adheb.com
@@ -8873,7 +8873,6 @@ css.juqingba.cn
 csszsz.hu
 cstectrain.infotec-carestreamdental.com
 cstoa.com
-csxjys.com
 ctadamsauthor.com
 ct.buzzfeed.com
 ctdr.rescuegroups.org
@@ -19321,7 +19320,6 @@ leelasinghberg.org
 leesangku.com
 leeuwaandebrug.nl
 leewelton.com
-leeyuoxs.com
 leferinktractors.com
 lefopost.com
 lefthandedweb.com
