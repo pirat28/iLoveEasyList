@@ -144,7 +144,6 @@
 104.195.62.12
 104.197.140.120
 104.198.198.188
-104.37.245.11
 106.187.95.251
 1063bac0d855f4e67bd4.date
 107.187.255.178
@@ -269,6 +268,7 @@
 180.76.171.28
 181lm.net
 182.92.81.104
+183pu.cn
 1860-nicaragua-banish.com
 1873083787.rsc.cdn77.org
 18846846874646-verify.net
@@ -938,7 +938,6 @@
 5thblock.com
 5vcl2z9la7.com
 5x0f.cn
-5x5q.com
 5xian8.com
 5y9nfpes.52pk.com
 5yw4n.cn
@@ -1148,7 +1147,6 @@
 7n3e8o.com
 7pay.net
 7rjln8orgh.com
-7shang9xia.com
 7speed.info
 7thundersentertainment.com
 7wen.cn
@@ -1879,6 +1877,7 @@ ad.52av.tv
 ad.71i.de
 ad7.bigmir.net
 ad9377.com
+ad.9animes.ru
 ad.about.co.kr
 adaboya.com.tr
 ad.accessmediaproductions.com
@@ -3155,6 +3154,7 @@ analytics.foresee.com
 analytics.freespee.com
 analytics.gameforge.de
 analytics.gazeta.pl
+analytics.getshogun.com
 analytics.global.sky.com
 analytics.go.com
 analytics.gorillanation.com
@@ -3269,6 +3269,7 @@ analytics.wetpaint.me
 analytics.whatculture.com
 analytics.wildtangent.com
 analytics.witglobal.net
+analytics.worldtable.co
 analytics.yahoo.com
 analytics.yolacdn.net
 analytics.yola.net
@@ -6220,6 +6221,7 @@ brookingscubsbaseball.com
 brooksmadonald.com
 brown-paper-packages-sa.com
 browscience.com
+browser.sentry-cdn.com
 br.realitykings.com
 brsantandervangohbr.com
 brucecrafts.com
@@ -7551,6 +7553,7 @@ chupiao365.com
 churchcalledhome.net
 churning-frequencie.000webhostapp.com
 chushoushijian.cn
+chutangpu.cn
 chuzushijian.cn
 chydh.net
 ciadorh.com.br
@@ -9258,6 +9261,7 @@ d23nyyb6dc29z6.cloudfront.net
 d23p9gffjvre9v.cloudfront.net
 d23pi6hvdpcc5i.cloudfront.net
 d23rdjhd16xqjq.cloudfront.net
+d2405b0jymm2dk.cloudfront.net
 d240937yockcdo.cloudfront.net
 d24a1q42xt7oz9.cloudfront.net
 d24afgsm39csxt.cloudfront.net
@@ -9452,6 +9456,7 @@ d37kzqe5knnh6t.cloudfront.net
 d37s9vd5t6mov7.cloudfront.net
 d38dc3e7.ngrok.io
 d38jqyqnm50w90.cloudfront.net
+d38nbbai6u794i.cloudfront.net
 d38ninixg4cek5.cloudfront.net
 d38pxm3dmrdu6d.cloudfront.net
 d38r21vtgndgb1.cloudfront.net
@@ -12239,6 +12244,7 @@ eubuild.com
 euclideinvestments.com
 euforiafryz.pl
 eugenebhangra.com
+eu.groupondata.com
 euhighschool.edu.bd
 euib.iewical.eu
 eukmzfq.com
@@ -12301,7 +12307,6 @@ events.air.tv
 events.antenna.is
 events.apester.com
 events.avantisvideo.com
-events.bounceexchange.com
 events.chaordicsystems.com
 events-coin-clem.000webhostapp.com
 events.demoup.com
@@ -12749,6 +12754,7 @@ fashion.youthdeveloper.com
 fas.nirmala.life
 fastable.com
 fastad.beepworld.de
+fast.appcues.com
 fastcounter.bcentral.com
 fastcounter.onlinehoster.net
 fastdrugssupply.ru
@@ -14283,7 +14289,6 @@ gggardening.com
 gg.getbs.com
 gg.gsdlcn.com
 gg.gw032.com
-ggg.xiangjiao.xxx
 ggg.zj.com
 gghzskncx3.harrisdentalsolutions.com
 gg.jkmeishi.com
@@ -14425,6 +14430,7 @@ glassmoni.researchgate.net
 glasszz.com
 glaubinhocarcare.com.br
 glauptan.net
+glauvoob.com
 glazeautocaremobile.com
 glbdns.microsoft.com
 gld35wndkn.com
@@ -17375,6 +17381,7 @@ iwnuhidsa.com
 iwork4g.org
 iwsxzsa24.club
 iwxindia.in
+ixdqmmovnvbkl.com
 ixmwqbvtibvv428mu4as.maherstcottage.com.au
 ixnstream.eu
 ixsvzsf5ee.bradul.creatory.org
@@ -17642,7 +17649,6 @@ jeffreysamuelsshop.com
 jeff.timeclever.com
 jeff-trexler.com
 jeglirppwlfxdtpcftn.com
-jegxny.com
 jehansen.dk
 jehlamsay.com
 jehuiafkdj.cc
@@ -19474,6 +19480,7 @@ lh41.isolutions.ae
 lh7e9xjy5x.com
 lhafy.com
 lhengilin.com
+lhhxlj.com
 lhitlbtc.hosstinger.info
 lhqtz6bs-site.1tempurl.com
 lh.secure.yahoo.com
@@ -20040,6 +20047,7 @@ log.r7.com
 logrel.com.ng
 log.ren.tv
 logs.51cto.com
+logsbin.dantri.com.vn
 logs.dashlane.com
 log.seekda.com
 logs.ggweb.nl
@@ -20052,6 +20060,7 @@ logstat.caixin.com
 logs.thebloggernetwork.com
 log.suchen.de
 log.superweb.ws
+log.suumo.jp
 logs.vmixcore.com
 log.sv.pandora.tv
 log.sz-online.de
@@ -22641,6 +22650,7 @@ nba1001.net
 nba.emohe.com
 nbaob.com
 nbcahomes.com
+nbhotpo.com
 nbhxgjz.com
 nbjjd.com
 nbmumen.com
@@ -23599,7 +23609,6 @@ okilo.cyber-pk.com
 okkkk.com
 oklahomasbestpropertymanagement.com
 okm918.com
-okmgy.cn
 okmido7n.beget.tech
 okmido8m.beget.tech
 okmir-str.ru
@@ -26113,6 +26122,7 @@ pushamir.com
 push.cnnindonesia.com
 pushlarr.com
 pushlemm.com
+push.neko-san.fr
 push-notifications.top
 pushokey.com
 pushomir.com
@@ -27127,6 +27137,7 @@ retajukaleter.com
 re.taotaosou.com
 retargeting.vistaprint.com
 retbusiness.com
+retcode.taobao.com
 retdecor.com.br
 retificansfatima.com.br
 retiremely.com
@@ -30499,6 +30510,7 @@ stats.olark.com
 stats.ombx.io
 stats.openload.co
 stats.opoloo.de
+stats.oui.sncf
 stats.ozwebsites.biz
 stats.pandora.com
 stats.paste2.org
@@ -31366,6 +31378,7 @@ tag.email-attitude.com
 tagger.opecloud.com
 tag.leadplace.fr
 tag.myplay.com
+tag.rmp.rakuten.com
 tags2.adshell.net
 tags.cdn.circlesix.co
 tags.master-perf-tools.com
@@ -31534,6 +31547,7 @@ t.c4tw.net
 tc600.com
 tc.airfrance.com
 tc-avrora38.ru
+tce.alicdn.com
 t.cfjump.com
 tcheck.outbrainimg.com
 tchep.com
@@ -32633,6 +32647,7 @@ tracking.nextdoor.com
 tracking.novem.pl
 tracking.oe24.at
 tracking.olx-st.com
+tracking.oui.sncf
 tracking.pacharge.com
 tracking.performgroup.com
 tracking.plinga.de
@@ -34578,7 +34593,6 @@ vtrtl.de
 v-tveri.ru
 vty2blicem.amarautotech.com
 vtzxaxue.com
-vu7r6.cn
 vuahb.com
 vukosug.com
 vuonglaw.com
@@ -34643,6 +34657,7 @@ w88.go.com
 w8thcykwz8ydssliuvs.trade
 wa4etw9l.top
 wabdb1.52pk.com
+waby66.cn
 wac.a164.taucdn.net
 wachipho.net
 wachtmeester.nu
@@ -36653,9 +36668,9 @@ yixingim.com
 yixui.com
 yiygehqhf6p5jjs2.review
 yiyuantian.com
+yizhijin.cn
 yjchiakozj.com
 yjiaj.com
-yjkyj.cn
 yjoiunf.com
 yjtag.yahoo.co.jp
 yk0712.com
