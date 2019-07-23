@@ -1862,7 +1862,6 @@ activtycustomernotificationhomealertonlinenotee.000webhostapp.com
 actmediation.com.au
 actoriends.info
 actpropdev.co.za
-actupspeedreading.com
 act-veriview.000webhostapp.com
 actvier.ns11-wistee.fr
 acumen.or.ke
@@ -3120,6 +3119,7 @@ analytics.brandcrumb.com
 analytics.brave.com
 analytics.carambatv.ru
 analytics.carambo.la
+analytics.ceneo.pl
 analytics.cincopa.com
 analytics.clickpathmedia.com
 analytics.closealert.com
@@ -6011,7 +6011,6 @@ bokilora.com
 bokranzr.com
 bolan.com.np
 bola.thegoldenpalette.com
-boldfield.com
 bolkazoopa.com
 bollinger-design.com
 bollingoes.ml
@@ -11726,7 +11725,6 @@ elizabethschmidtsa.com
 elizabethtonunionhall.com
 elizadolittle.com
 elizerbeth.org
-eljaripeo.net
 elkablog.ru
 ellefreemanfoundation.com
 ellenfel.com
@@ -14681,6 +14679,7 @@ gotsurievent.com
 gottagofishinginkeywest.com
 gottawatchit.com
 gotyourgas.com
+gou1zhe.com
 gouddc.com
 goulanmeng.cn
 goulburnhandweaversandspinners.com.au
@@ -20778,6 +20777,7 @@ marketingont.org
 marketingouroturismo.com.br
 marketingsolutions.yahoo.com
 marketingspace.com.ng
+marketing.tr.netsalesmedia.pl
 marketplacesms.com
 marketshops.co.uk
 markhamglascote.com
@@ -26197,6 +26197,7 @@ px.spiceworks.com
 px.staticfiles.at
 px.topspin.net
 px.wayfair.com
+px.wp.pl
 pxyvb.cn
 py5iqkj9ny.com
 pyapay.co
@@ -26235,6 +26236,8 @@ q8ntfhfngm.com
 q96healthybrain.com
 q993210v.bget.ru
 qabbanihost.com
+qai-ir.quartic.pl
+qai.quartic.pl
 qanlogers.tk
 qaqact.cn
 qaquzakalaka.com
@@ -32555,6 +32558,7 @@ tracker.revip.info
 tracker.roitesting.com
 tracker.secretescapes.com
 tracker.shopclues.com
+tracker.softcube.com
 trackerstatistik.init-ag.de
 tracker.stileo.it
 tracker.streamroot.io
