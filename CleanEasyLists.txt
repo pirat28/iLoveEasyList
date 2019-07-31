@@ -8043,6 +8043,7 @@ collector.air.tv
 collector.apester.com
 collector.automote.co.nz
 collector-cdn.github.com
+collector.fiverr.com
 collector.githubapp.com
 collector.ksax.com
 collector.kstptv5.com
@@ -9369,6 +9370,7 @@ d2nxi61n77zqpl.cloudfront.net
 d2nz8k4xyoudsx.cloudfront.net
 d2nzjxafm0iowq.cloudfront.net
 d2o307dm5mqftz.cloudfront.net
+d2o5idwacg3gyw.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oallm7wrqvmi.cloudfront.net
 d2od2b2huvmzuj.cloudfront.net
@@ -9457,6 +9459,7 @@ d3591q3cwzbtxd.cloudfront.net
 d359wjs9dpy12d.cloudfront.net
 d35gxjm3e9wg7v.cloudfront.net
 d35r45qhjmgs3g.cloudfront.net
+d35u1vg1q28b3w.cloudfront.net
 d366o5iwycvbsk.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d36sxvmjoflc2i.cloudfront.net
@@ -9508,6 +9511,7 @@ d3f9mcik999dte.cloudfront.net
 d3fqhkmofpujs3.cloudfront.net
 d3fzrm6pcer44x.cloudfront.net
 d3h1v5cflrhzi4.cloudfront.net
+d3hitamb7drqut.cloudfront.net
 d3hr5gm0wlxm5h.cloudfront.net
 d3hwh14livah35.cloudfront.net
 d3i1asoswufp5k.cloudfront.net
@@ -22113,6 +22117,7 @@ muh-ridwan.co.id
 muisdkj.gq
 mujereshomemade.com.py
 mujilora.com
+mukkkoi.cn
 mukoly.info
 mukundaraghavendra.org
 mulaibaru.hol.es
