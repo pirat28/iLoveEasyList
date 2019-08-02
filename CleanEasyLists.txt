@@ -3224,6 +3224,7 @@ analytics.rogersmedia.com
 analytics.rtbf.be
 analytics.sanoma.fi
 analytics.schoolwires.com
+analytics-scripts.cablelabs.com
 analytics.services.distractify.com
 analytics.shareaholic.com
 analytics.shop.hisense.com
@@ -9435,6 +9436,7 @@ d30zrwt3s044zr.cloudfront.net
 d3135glefggiep.cloudfront.net
 d31807xkria1x4.cloudfront.net
 d31ea41705818c9.com
+d31mxuhvwrofft.cloudfront.net
 d31vxm9ubutrmw.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
 d32pxqbknuxsuy.cloudfront.net
@@ -13468,6 +13470,7 @@ forum.like108.com
 forum.magicsafeprogram.su
 forward-to-unblock.000webhostapp.com
 foryourinformation.c23073.shared.hc.ru
+foshou.pw
 fosight.com
 fosornom.com
 fossilsgs.com
@@ -15073,6 +15076,7 @@ gzknx.com
 gzktpf.com
 gzmjnx.cn
 gzmsm.cn
+gzmxybg.com
 gzm.xzbu.com
 gzmzts.com
 gznsyh.com
@@ -16624,6 +16628,7 @@ ilo134ulih.com
 iloating.info
 ilorcisoft.com
 iloveaura.com
+ilovechenyuqian.xyz
 ilovefernandotorres.com
 ilovejayz.com
 il-picchio.eu
@@ -20934,6 +20939,7 @@ maximizerxls.com
 maximum-mobilkampanya.club
 maximumprofit.biz
 maxitorne.com
+maxoi.cn
 maxovvk2.beget.tech
 maxplusfm.ml
 maxxstudiosalonspa.com
@@ -22071,6 +22077,7 @@ mswxtlhqor.com
 mtalk2.mannishtalk.com
 m.tamilmalls.com
 mtaylordrywall.com
+mtcat.cn
 mtcconsult.com
 mtc.nhk.or.jp
 mtdsystems.com
@@ -23046,6 +23053,7 @@ nighting.info
 nightvision.tech
 nigrebud.net
 nihahaw5.beget.tech
+nihao987654.top
 nihilxaos.com
 niholaev.com
 niingpu.com
@@ -37372,7 +37380,6 @@ zp22938576.com
 zpaypal.co.uk
 zpc3mnpmr4rwnpiqoyanyrib.review
 zpoder.com
-zp.programme.tv
 zq84.com
 zqmdm.com
 zqworks.com
