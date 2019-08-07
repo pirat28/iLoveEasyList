@@ -463,6 +463,7 @@
 212.64.34.17
 213.8.137.51
 215to.cn
+216pu.cn
 218.25.246.118
 219.234.83.60
 21.aiyangedu.com
@@ -9139,7 +9140,6 @@ d1.abtshield.com
 d1ade4ciw4bqyc.cloudfront.net
 d1aezk8tun0dhm.cloudfront.net
 d1afet533lf7zs.cloudfront.net
-d1aqhv4sn5kxtx.cloudfront.net
 d1ar5xirbydtuc.cloudfront.net
 d1auwh1li83eb9.cloudfront.net
 d1az0m14mjvs40.cloudfront.net
@@ -10814,6 +10814,7 @@ dofficepro.com
 dogecoingon.ga
 dog.halfbirthdayproducts.com
 doghauky.net
+doghoust.net
 dog-portrait.com
 dohs95d6tfj19.cloudfront.net
 dojqwugnjqawjenqwdasd.com
@@ -12057,6 +12058,7 @@ eritrean111.prohosts.org
 eriyddjd.pw
 erizuyehjry-online.fr
 erlivia.ltd
+ermao.sikabeila.com
 ermaseuc.ru
 ermusiclab.com
 ernationwide.com
@@ -18897,6 +18899,7 @@ kotebis.000webhostapp.com
 kotharis.in
 kotokit.000webhostapp.com
 kotycraft.ru
+koudaichaoshi.cn
 kouitc.com
 kouklaboutique.000webhostapp.com
 koukou7.com
@@ -19338,6 +19341,7 @@ lcloud-verifybillinginformation.ryhta.com
 lcoc1nizcr.littleeinsteinz.org
 l.coincident.tv
 lcp0rkyg-site.1tempurl.com
+lcrmm.top
 lcs-klantencontact.nl
 lcs.livedoor.net
 lcye5vup-site.btempurl.com
@@ -20108,6 +20112,8 @@ log.webnovel.com
 log.wilmaa.com
 logwoodonline.com
 log.worldsoft-cms.info
+logx.mtime.cn
+logx.mtime.com
 log.ynet.com
 logz.ikimfm.my
 loitran.ml
@@ -25219,6 +25225,7 @@ pitaya-organicos.com
 pitchforkny.com
 pitchtext.com
 pi.technik3d.com
+pitena.top
 piti.bplaced.net
 pittsburghcollegelawyer.com
 pitunews.com
@@ -26271,6 +26278,7 @@ q2an8fheo7.ikejiwbe6i.madpendesign.com.au
 q3ed.com
 q459xx.com
 q5bkioqo9v.qfcrhdwg5x.madpendesign.com.au
+q671e.cn
 q6t8bgo26nx1ooxe61cx.littlematchagirl.com.au
 q7ms.cn
 q8eqh.top
@@ -36249,6 +36257,7 @@ xinghao89.com
 xingjuhe.com
 xingqibaile.com
 xingsi.com
+xingtaiju.cn
 xingyunjiaren.com
 xinhuacybz.com
 xinju.cc
