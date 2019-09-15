@@ -5761,6 +5761,7 @@ biz.verify.apple.com.dgsfotografia.com.br
 biz.weibo.com
 bjano.owncube.com
 bjbrtc.com
+bj-bytsk.com
 bjdenon.com
 bjd-garden.com
 bjdianyue.com
@@ -9896,6 +9897,7 @@ data.circulate.com
 datacollector.coin.scribol.com
 dataconnectinfotrends.com
 datadbs.com
+datadog-service.mvfglobal.com
 data.econa.com
 datafastguru.info
 datalogin-upportacc.com
@@ -10473,6 +10475,7 @@ dhxyzx.cn
 dhy77jsjr4g76.cloudfront.net
 dhycazbjhewd.com
 dhzws7l31cq8p.cloudfront.net
+di9qu.com.cn
 diabetes-free.life
 diabeticneuropathysolution.com
 diabitiki-poria.gr
@@ -13936,6 +13939,7 @@ g1qv3lmzi5jtp2szkqem.viomil.ro
 g1.taijuba.com
 g1thub.com
 g1xgeb82nj.com
+g2insights-cdn.azureedge.net
 g2.ousns.net
 g2pivmz5jm.w0sjkfrwzz.chproperties.com
 g2rburn.com
@@ -15717,6 +15721,7 @@ heritagehighway.com.au
 heritageibn.com
 heritagevillage.ca
 hermesfortune.com
+hermes.theglobeandmail.com
 hermesvargas59.000webhostapp.com
 hermosillosonora.com
 hernansm.beget.tech
@@ -21792,6 +21797,7 @@ mm-mmm0.paykasabozdurma.xyz
 mmm.theweek.co.uk
 mmobitech.com
 mmonius4spz75qszqq0s.littlematchagirl.com.au
+mmpnierhio.com
 mmpstats.mirror-image.com
 mmpuh.cn
 mmrj.entadsl.com
@@ -33000,6 +33006,7 @@ track.td3x.com
 track.tesiteca.it
 track.thesaurus.com
 track.tiara.daum.net
+track.totalav.com
 track.uc.cn
 track.ugamezone.com
 track.ultimate-guitar.com
@@ -35829,6 +35836,7 @@ wrisadfh.com
 writanwords.com
 writec.ca
 wrmwb.7val.com
+wrontonshatbona.pro
 wrosttaygb.5gbfree.com
 wrtm.walla.co.il
 wrvdmh.cn
@@ -36284,6 +36292,7 @@ wxmg2016.com
 wxsssfvmqi.com
 wxstatic.cn
 wxvsj.com.cn
+wxxfqc.com
 wyatb.com
 wyf003.cn
 wyhzzy.com
