@@ -328,6 +328,7 @@
 1.feihua365.cn
 1.feihua.com
 1.fembed.com
+1fv3b.cn
 1fwjpdwguvqs.com
 1girl1pitcher.com
 1girl1pitcher.org
@@ -405,6 +406,7 @@
 1.uc129.com
 1.ufc123.com
 1.vsimg.com
+1.v-x.com.cn
 1.wenzhangba.cn
 1.win7china.com
 1.win7sky.com
@@ -2022,7 +2024,6 @@ adm2018.at.ua
 adm.265g.com
 adm.52swine.com
 adm.6park.com
-adm.86wan.com
 admagnet1.com
 ad.main-netz.de
 ad.mangareader.net
@@ -20219,6 +20220,7 @@ log.r7.com
 logrel.com.ng
 log.ren.tv
 logs.51cto.com
+logs-api.shoprunner.com
 logsbin.dantri.com.vn
 logs.dashlane.com
 log.seekda.com
