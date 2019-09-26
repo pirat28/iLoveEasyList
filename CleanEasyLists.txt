@@ -1957,6 +1957,7 @@ addirector.vindicosuite.com
 additive-manufacture.us
 ad.doctissimo.fr
 ad.download.cnet.com
+address9.com
 ad.dslr-forum.de
 adds.weatherology.com
 ad.duga.jp
@@ -3275,7 +3276,6 @@ analytics.themarketiq.com
 analytics.thenest.com
 analytics.thenewslens.com
 analytics.thetab.com
-analytics.thevideo.me
 analytics.tio.ch
 analytics.tout.com
 analytics.tradedoubler.com
@@ -9926,6 +9926,7 @@ datasecu.download
 data-service-de.info
 datasitcherheit.ml
 datas.tianqistatic.com
+data.studybreakmedia.com
 data-trasfer.com
 dataubgreadidt.info
 data.waptime.cn
@@ -14182,6 +14183,7 @@ g-docs.pro
 gdocs.win
 gdpr.internetbrands.com
 gdpr.prisa.com
+gdpr.studybreakmedia.com
 gdpttpyvcuvav.com
 gdriiiiiivv.com
 gdrivesever.000webhostapp.com
@@ -18953,6 +18955,7 @@ koch-ip.com.au
 kod4pc293.com
 kodipc.linkandzelda.com
 koeyo.com
+kofcq5.cn
 kofpag.com
 kogantihomes.org
 kohtaoapt.com
@@ -20250,7 +20253,6 @@ logs.vmixcore.com
 log.sv.pandora.tv
 log.sz-online.de
 log.tagtic.cn
-log.thevideo.me
 log-upgrade-helpdata-isetting-data-us.akunnet.com
 log.vdn.apps.cntv.cn
 log.v.iask.com
@@ -23285,6 +23287,7 @@ njq.net
 njwxh.com
 njxczy.com
 njyabihc.com
+njyyk.com
 nkeo.top
 nkjwmb.com
 nklwgj.com
@@ -30828,7 +30831,6 @@ statstat888.com
 stats.technopia.it
 stats.teledyski.info
 stat.stheadline.com
-stats.thevideo.me
 statstools.porn.fr
 stats.topofblogs.com
 stats.townnews.com
@@ -34811,6 +34813,7 @@ vmjjzk.cn
 vmkbcb.info
 vm.newupbusiness2.pw
 vmrinternational.com
+vmstats.varrando.com
 vmtvoting.com
 vmzqkohbczmynxodngtsjpb.info
 vnanf.com
