@@ -3126,6 +3126,7 @@ analytics00.meride.tv
 analytics.163.com
 analytics.21cn.com
 analytics.247sports.com
+analytics2.socialblade.com
 analytics.30m.com
 analytics.aasaam.com
 analytics.abacast.com
@@ -5194,6 +5195,7 @@ bd01.qqkxb.com
 bd11.nipic.com
 bd1.365qilu.com
 bd1.52che.com
+bd1.99danji.com
 bd1.dopa.com
 bd1.flfgw.cn
 bd1.heiguang.cn
@@ -6982,6 +6984,7 @@ cdiah.com
 cdicasup.beget.tech
 cdinterior.com.sg
 cdjconsultants.com
+cdjkngs.cn
 cdlinli.com
 cdmswj.com
 cd.musicmass.com
@@ -9592,7 +9595,6 @@ d3dxsjwcn85hgy.cloudfront.net
 d3dytsf4vrjn5x.cloudfront.net
 d3edizycpjjo07.cloudfront.net
 d3elm8wezzwg42.cloudfront.net
-d3eokk6ya562p5.cloudfront.net
 d3ezl4ajpp2zy8.cloudfront.net
 d3f4u3khr0ycep.cloudfront.net
 d3f9mcik999dte.cloudfront.net
@@ -9731,6 +9733,7 @@ dachigamnationalpark.org
 dacsancaonguyen.vn
 dadabada.com
 dadamarket.com.ua
+dadawm.cc
 daddaairlines.xyz
 dadjia.com
 dadossolicitado-antendimento.sad879.mobi
@@ -12843,6 +12846,7 @@ fancydiamondtree.com
 fandc.in
 fangdalaw.gd.cn
 fangjslc.com
+fanglinwang.cn
 fangqianghuaye.com
 fangzi2.top
 fanintoflamecog.org
@@ -16777,7 +16781,6 @@ ima2017.gr
 imads.rediff.com
 image201744.000webhostapp.com
 image201844.hostoi.com
-image.9duw.com
 image.hh010.com
 image.lobopharm.hr
 imagengraficaperu.com
@@ -16814,7 +16817,6 @@ img3.126.net
 img.3sjt.com
 img.80982.org
 img80.net
-img.9duw.com
 imgadsame.liba.com
 img.ferlie.net
 img.meipic.net
@@ -17352,6 +17354,7 @@ iq24ne.cn
 iqbalandsons.com
 iqcpm.com
 iqfindia.org
+iqiyi.kim
 iqq4rcma6v.besthairtransplantpunjab.com
 iqu-operation.com
 iqvvsi.com
@@ -18260,6 +18263,7 @@ js.fc090.com
 jsf.cnlinfo.net
 js.gdyjs.com
 jsgsamanvaya.com
+js.high-minded.net
 js.hkslg520.com
 jshpzd.com
 jsjewellerycity.com
@@ -19603,6 +19607,7 @@ lerofa.hol.es
 leroidumatelas.gb.net
 lescanoyquiroz.com
 lesfoliesdelafilleframboise.com
+leshigov.cn
 leslascarsgays.fr
 lesleebeeman.com
 lesperon.com
@@ -21274,6 +21279,7 @@ medium-promo.top
 medivalsinc.com
 medonohley.com
 medorg-announcements.com
+medprofile.cn
 medrealestate.pl
 medrx.telstra.com.au
 medserv.carrefour.com
@@ -23898,6 +23904,7 @@ oms.expedia.com
 omt.shinobi.jp
 omucwhzljevthqe98trp.viomil.ro
 omzdy.top
+omztf.cn
 on68xf.cn
 onai.16mb.com
 on.animeteatr.ru
@@ -29984,6 +29991,7 @@ smestudio.com.uy
 smetrics.att.com
 smetrics.delta.com
 smewatchmagazine.com
+smf82.cn
 smhfwsmwtvlqvgu.pw
 smi-engineering.com
 smile.ganhandoitensextra.com.br
@@ -31605,6 +31613,7 @@ szqifu.com
 szrk3.com
 szshouzhai.com
 sztbjs.com
+szwzjk.cn
 szxiuchang.com
 szxpsg.com
 szzlzn.com
@@ -32998,6 +33007,7 @@ tracking.ustream.tv
 tracking.vengovision.ru
 tracking.vid4u.org
 tracking.waterfrontmedia.com
+tracking.webtradecenter.com
 tracking.wlscripts.net
 tracking.yourfilehost.com
 track.juno.com
@@ -36630,6 +36640,7 @@ xnjzsn.com
 xn--medim-9d2b.com
 xn--mercadobtcon-zfbd.com
 xn--metherwalet-ms8eq4b.com
+xn--mtsr39cnql.video
 xn--myeerwallet-ml8el7a.com
 xn--myeterwallt-cm8e02e.com
 xn--myeterwallt-crb1087g.com
