@@ -2314,7 +2314,6 @@ affiliatesmedia.sbobet.com
 affiliates.mgmmirage.com
 affiliates.mozy.com
 affiliates.myfax.com
-affiliates.purevpn.com
 affiliates.swappernet.com
 affiliates.thrixxx.com
 affiliates.treasureisland.com
@@ -9501,7 +9500,6 @@ d2nxi61n77zqpl.cloudfront.net
 d2nz8k4xyoudsx.cloudfront.net
 d2nzjxafm0iowq.cloudfront.net
 d2o307dm5mqftz.cloudfront.net
-d2o5idwacg3gyw.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oallm7wrqvmi.cloudfront.net
 d2od2b2huvmzuj.cloudfront.net
@@ -9591,7 +9589,6 @@ d3591q3cwzbtxd.cloudfront.net
 d359wjs9dpy12d.cloudfront.net
 d35gxjm3e9wg7v.cloudfront.net
 d35r45qhjmgs3g.cloudfront.net
-d35u1vg1q28b3w.cloudfront.net
 d366o5iwycvbsk.cloudfront.net
 d36lvucg9kzous.cloudfront.net
 d36sxvmjoflc2i.cloudfront.net
@@ -17970,6 +17967,7 @@ jh99s.cn
 jhaa.org.bd
 jhakie.com
 jhbi0techme.com
+jhbrc.xyz
 jhdocs.com
 jheooaxyswm.com
 jhf2e.cn
@@ -33660,6 +33658,7 @@ u0c6swthha.arorazphotoworld.com
 u1.shuaiku.com
 u21drwj6mp.com
 u25u2bqn.top
+u372q.cn
 u4.aktivwebsitedesign.com
 u4vf9amd0irgpu3rfq.stream
 u532344488.hostingerapp.com
