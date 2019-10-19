@@ -152,6 +152,7 @@
 104.198.198.188
 104.203.72.254
 104.233.203.164
+104.237.67.78
 106.187.95.251
 1063bac0d855f4e67bd4.date
 107.172.176.197
@@ -1455,6 +1456,7 @@ a1.twtym.com
 a1.vdolady.com
 a1.yuuedu.com
 a1.zhanzhang.net
+a.20minutes.fr
 a2132959.0lx.net
 a22f0d8201ade09fa3.com
 a2a.lockerz.com
@@ -9022,6 +9024,8 @@ css.juqingba.cn
 csszsz.hu
 cstectrain.infotec-carestreamdental.com
 cstoa.com
+csxsyp.cn
+ct1985.com
 ctadamsauthor.com
 ct.buzzfeed.com
 ctdr.rescuegroups.org
@@ -12471,6 +12475,9 @@ eveent-wekends.000webhostapp.com
 evefashion.cn
 evencel.ro
 event-analytics.yesware.com
+event-api.contactatonce.com
+event-api.contactatonce.com.au
+event-api.contactatonce.co.uk
 event.api.drift.com
 eventapi.libring.com
 eventclergy.com
@@ -13677,6 +13684,7 @@ fpb1.apple886.com
 fpb1.gxfin.com
 fpbcode.onlinedown.net
 fpb.kuhou.com
+fpb.sohu.com
 fpibhiinwepy.fgppchg.fgpp.com
 fp.jj59.com
 fpn81171321mp.hol.es
@@ -15086,6 +15094,7 @@ gsctechinology.com
 gservcountys.co.uk
 gshawcross.org
 gshopee.com
+gshtrl.top
 g.silicon.de
 g.siliconweek.es
 gsimonproductions.com
@@ -17670,6 +17679,7 @@ j0008.com
 j0c5je5flc.bbpsldh.org
 j1.piaobing.com
 j1vtm.top
+j200d3.cn
 j49f2ihpk0gtubabhlqd.businessrulesanalysis.com
 j4a73n7v5k.com
 j583923.myjino.ru
@@ -18833,6 +18843,7 @@ kfuih.cn
 kfzedelhjtyw.com
 kfz-ross.de
 kg.aws.mashable.com
+kgcj00.cn
 kgcjgsa8.net
 kge91.com
 kgkpuz.com
@@ -20201,6 +20212,7 @@ log1.survey.io
 log2.adop.cc
 log.51cto.com
 log.aimtell.com
+log.aliyuncs.com
 log.bitauto.com
 log.china.cn
 log.circle.com.ng
@@ -21600,6 +21612,7 @@ metrics.extremetech.com
 metrics.feedroom.com
 metrics.loomia.com
 metrics.n-tv.de
+metrics.readme.io
 metrics.scribblelive.com
 metrics.seenon.com
 metrics.sonymusicd2c.com
@@ -22112,6 +22125,7 @@ moduloid.com.br
 modulojas.com.br
 mofaenterprises.com
 moggattice.com
+moguozhi.com
 mogyang.net
 mohamedsamy.net
 mohandesbook.com
@@ -31002,6 +31016,7 @@ statstat888.com
 stats.technopia.it
 stats.teledyski.info
 stat.stheadline.com
+stats.tipser.com
 statstools.porn.fr
 stats.topofblogs.com
 stats.townnews.com
@@ -33635,6 +33650,7 @@ txn.thenewsroom.com
 txpido.com
 txstatic.cn
 txt2017.com
+txt2019.cc
 txt-suspension-approval.va-authenticate.top
 txtxr.com
 ty1.263y.com
@@ -33665,6 +33681,7 @@ u0466829.cp.regruhosting.ru
 u0477674.cp.regruhosting.ru
 u0482802.cp.regruhosting.ru
 u0c6swthha.arorazphotoworld.com
+u1.2048sj.com
 u1.shuaiku.com
 u21drwj6mp.com
 u25u2bqn.top
@@ -35229,6 +35246,7 @@ wangdaizao.com
 wangdddy.com
 wangdq.com
 wangketuan.com
+wangliqin.top
 wangqiao365.com
 wangqing7.top
 wangqipu.com
@@ -37055,6 +37073,7 @@ yandex-zaem.000webhostapp.com
 yangdasen.cn
 yanghongmin.com
 yanglaopt.net
+yangzhenpeng.top
 yangzhou.c-zs.com
 yangzirivercorp.com.au
 yanjunbo.com
