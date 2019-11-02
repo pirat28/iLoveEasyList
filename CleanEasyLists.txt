@@ -2202,6 +2202,7 @@ adsrv.wtf
 adss.dotdo.net
 ads.servebom.com
 ads.sohu.com
+ads.sportradar.com
 adss.yahoo.com
 ads-team-safety.esy.es
 ads-tracking.beopinion.com
@@ -9250,6 +9251,7 @@ d1447tq2m68ekg.cloudfront.net
 d144jmuhz9kvbq.cloudfront.net
 d145tbca0156xf.cloudfront.net
 d14emrg9.com
+d14jnbmekseru6.cloudfront.net
 d14nx4uiqzwnqt.cloudfront.net
 d14p8nzdvd75ly.cloudfront.net
 d15565yqt7pv7r.cloudfront.net
@@ -9417,6 +9419,7 @@ d21o24qxwf7uku.cloudfront.net
 d21uwl37pca4oi.cloudfront.net
 d2222t5nvb13ei.cloudfront.net
 d22lo5bcpq2fif.cloudfront.net
+d22sfab2t5o9bq.cloudfront.net
 d22v2nmahyeg2a.cloudfront.net
 d234h234l.000webhostapp.com
 d23guct4biwna6.cloudfront.net
@@ -14657,6 +14660,7 @@ gjooge.com
 gjtikylryey.000webhostapp.com
 gjuet.com
 gjysjl.com
+gk1.582582.com
 gk1.zjbiz.net
 gk4aiims.000webhostapp.com
 gkcy003.com
@@ -15317,6 +15321,7 @@ gzqell.com
 gzqudou.com
 gztianfu.net
 gzxhshipping.com
+gzxiongwa.cn
 gzxxzy.com
 gzzena.com
 h01ce.cn
@@ -21034,6 +21039,7 @@ mannfarmeir.com
 manorparty.com
 manosmorenas.com.ar
 manotaso.com
+manparis.cn
 manpoweragencypro.com
 manpscoys.co.za
 mans.cnusher.ind.in
@@ -36342,10 +36348,7 @@ www28.kkuumn.com
 www293.lewwwz.com
 www29.hjnvren.com
 www2.adfreetv.ch
-www2.daclips.in
-www2.gorillavid.in
 www2.gxxmm.com
-www2.movpod.in
 www2.rtyszz.com
 www.2seo8.com
 www30.feieo.com
