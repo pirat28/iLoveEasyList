@@ -2863,6 +2863,7 @@ allwaterdamagerestoration.com
 allwaysinspect.com
 allwinsun.com
 allxin.com
+alma-cmp.almamedia.io
 almaco.com.co
 almagrupo.es
 alman-alhsadiq52.myjino.ru
@@ -8055,6 +8056,7 @@ cmp.cio.com.au
 cmp.cmo.com.au
 cmp.computerworld.com.au
 cmp.cso.com.au
+cmp.csoonline.com
 cmp.digitalartsonline.co.uk
 cmp.greenbot.com
 cmp.infopro-digital.com
@@ -18009,6 +18011,7 @@ jdcartoon.com
 jddaw.com
 jddizh1xofciswt1ehvz.thequalitycheck.com
 jdexcorp.com
+jdf494.cn
 jdflower.cn
 jdgrandeur.com
 jdgsgl.com
@@ -19118,6 +19121,7 @@ kiwionlinesupport.com
 kiwire.ipnoc.net.my
 kizarmispilicler.com
 kjaobemtbbptqnqe.4x4corps.com
+kjdw.com.cn
 kjfhe.com
 kjfjjjiy.beget.tech
 kjfkgjte.tk
@@ -33760,6 +33764,8 @@ tt123.hao0202.com
 ttanger.000webhostapp.com
 tta-property.fi
 ttauri.techradar.com
+ttauri.tomsguide.com
+ttauri.tomshardware.com
 ttbaods.com
 tt.biquge.la
 ttb.lpcloudsvr302.com
@@ -34989,6 +34995,7 @@ videoad.cz
 video-ad-stats.googlesyndication.com
 video-clip.ml
 videocrypto.com
+videoevents.outbrain.com
 videointeractlearn.edu.au
 videointerattivi.net
 videondun.com
