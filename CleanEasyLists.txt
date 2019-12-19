@@ -5407,6 +5407,7 @@ beacon.statful.com
 beacon.thred.woven.com
 beacon.tingyun.com
 beacon.toyota.co.jp
+beacon-v2.helpscout.net
 beacon.viewlift.com
 beacon.wikia-services.com
 beacon.www.theguardian.com
@@ -7883,6 +7884,7 @@ clarium.global.ssl.fastly.net
 clarksvillepiano.com
 clashroyalehack2016.com
 class2deal.com
+classic.39health.com
 classiccarparts.ir
 classicdomainlife.cf
 classicdomainlife.ml
@@ -10680,6 +10682,7 @@ diabitiki-poria.gr
 diabloweissert.com
 diad.ge
 diag.doba.com
+diagnose.igstatic.com
 diagnosticautomobile.fr
 dial4data.com
 dialgold.com
@@ -11693,9 +11696,11 @@ eaglepeakcontainers.000webhostapp.com
 ea.greenweez.com
 ea.habitat.fr
 ea.histoiredor.com
+ea.hofmann.es
 ea.hofmann.pt
 ea.homair.com
 ea.jeuxvideopc.com
+ea.kauf-unique.at
 ea.lafrancedunordausud.fr
 ea.lexpress.fr
 ea.melijoe.com
@@ -12672,6 +12677,7 @@ events-coin-clem.000webhostapp.com
 events.demoup.com
 events-egiftsent.000webhostapp.com
 events.godaddy.com
+events.guesttoguest.com
 eventsguru.ml
 events.il.fi
 events.indyloyaltyclub.com
@@ -14718,6 +14724,7 @@ ggtp-1255424916.cos.ap-chengdu.myqcloud.com
 gg.uuu9.com
 ggvrefis.000webhostapp.com
 ggvvee.000webhostapp.com
+ggwan.com
 ggweb.net
 ggw.gusuwang.com
 ggw.watertu.com
@@ -21085,6 +21092,7 @@ madeireiragetuba.com.br
 madelinecop.us
 madeofthelightstuff.com
 maderisa.com
+madmen.alastonsuomi.com
 madness-combat.net
 madnesssales.com
 madoline.ml
@@ -25766,7 +25774,6 @@ phenver.com
 phexetos.com
 phformula.com.vn
 phichaus.top
-phi.estream.xyz
 phikaniklayar.com
 philipmpaayei.com
 philippsbros.com
@@ -26047,7 +26054,6 @@ playgas.com.br
 play.js.vidoza.net
 playkey.ga
 play.mix.kinostuff.com
-play.playe.estream.xyz
 play.s01.vidtodo.pro
 playstationgame.tk
 playstoresuggester.com
@@ -31337,6 +31343,7 @@ stats.fs.com
 stats.g.doubleclick.net
 stats.geegain.com
 stats.gifs.com
+stats.grafikart.fr
 stats.harpercollins.com
 stats.heyoya.com
 stats.highwire.com
@@ -32438,6 +32445,7 @@ t.cfjump.com
 tcheck.outbrainimg.com
 tchep.com
 tchetorkin.ru
+tc.hometogo.net
 t.cinemablend.com
 tcjy66.cc
 tck.bangbros.com
@@ -33539,6 +33547,7 @@ tracking.koego.com
 tracking.krone.at
 tracking.kurier.at
 tracking.ladies.de
+tracking.leadlander.com
 tracking.legacyoffers.com
 tracking.lengow.com
 tracking.linda.de
