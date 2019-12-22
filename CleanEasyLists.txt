@@ -5411,7 +5411,6 @@ beacon.statful.com
 beacon.thred.woven.com
 beacon.tingyun.com
 beacon.toyota.co.jp
-beacon-v2.helpscout.net
 beacon.viewlift.com
 beacon.wikia-services.com
 beacon.www.theguardian.com
@@ -9128,6 +9127,7 @@ csonneiue.net
 cspage2018.000webhostapp.com
 cspage2018go.000webhostapp.com
 csp.archant.co.uk
+cspb1.5w5w.com
 csp-collector.appspot.com
 csqiulong.com
 csr.onet.pl
@@ -20501,6 +20501,7 @@ localtcoins.net
 localupline.fr
 locatelli.us
 locateyouricloud.com
+location.bloomberg.com
 location.fashionises.com
 locations-map.com
 lockdoctorlv.com
@@ -22146,6 +22147,7 @@ minassangregorio.com
 mincertinker.com
 mindalytics.usa.cc
 mindfortune.info
+mindopu.com
 mindpowr.com
 mindrook.com
 mindscientificcontrol.com
@@ -37069,6 +37071,7 @@ wzus1.ask.com
 wzus1.reference.com
 wzus1.thesaurus.com
 wzus.askkids.com
+wzxw7.com
 x0md.r0tfo.top
 x0pocln5.beget.tech
 x1cuw5utg5a2oq5inkgxsncx08o.bid
@@ -37328,6 +37331,7 @@ xne1ocient87zxz.360doc.cn
 xn--etherem-y24c.com
 xn--ethrdelta-iib.com
 xn--fiqs8s1vdh24ati0a.com
+xn--fjqz50cv5q3so.ltd
 xn--fjqz50cv5q3so.online
 xn--fuson-1sa.org
 xnghmc.com
