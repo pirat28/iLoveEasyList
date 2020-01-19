@@ -881,6 +881,7 @@
 515646.net
 517m.cn
 517pass.com
+517xx.com
 519397.com
 51dengshan.cn
 51fishplace.com
@@ -1985,6 +1986,7 @@ acv5e.cn
 acwgf.com
 ad000000.com
 ad0be.review
+ad.52av.one
 ad.52av.tv
 ad.71i.de
 ad7.bigmir.net
@@ -3179,7 +3181,6 @@ analytics.aasaam.com
 analytics.adfreetime.com
 analytics.allovoisins.com
 analytics.amakings.com
-analytics.amplitude.com
 analytics.anvato.net
 analytics.apnewsregistry.com
 analytics.archive.org
@@ -3235,6 +3236,7 @@ analytics.groupe-seb.com
 analytics.grupogodo.com
 analytics.gvim.mobi
 analytics.hindustantimes.com
+analytics.humanautomation.ai
 analytics.ifood.tv
 analytics.industriemagazin.net
 analytics.infobae.com
@@ -10511,7 +10513,6 @@ didarmarket.com
 diego-fc.com
 diegopetrelli.com
 diehotelprofis.com
-dieka888.com
 dienthoaiphukien.vn
 dierqingchun.com
 dieselengines.ws
@@ -11340,6 +11341,7 @@ dwellersheritage.advancementconsultants.com
 dw-eu.com.com
 dwf6crl4raal7.cloudfront.net
 dwhk4xlyr8m52di6enkj.cedricchenevert.com
+dwh-tracking.it.auth0.com
 dwiattorneynearme.com
 dwilawnearme.com
 dwilawyernearme.com
@@ -13397,6 +13399,7 @@ fjmeyer.com
 fjmrxys.com
 fjronmao.com
 fjshxzyyxgs.cn
+fjsjsj.com
 fjtdorvr.info
 fjtzjy.com
 fjxyo.com
@@ -15670,6 +15673,7 @@ hekoindia.com
 heladosdepailadmp.com
 heladosislandia.com.ar
 helal.net.bd
+helanpinpai.com
 helaw.net
 helchiloe.cl
 helelana.xyz
@@ -16613,6 +16617,7 @@ icoderx.com
 ico.havven.info
 icolist.sale
 icomaq.com.br
+i.compendium.com
 i-components.net
 iconnigeria.com
 icontextil.com.br
@@ -20870,7 +20875,6 @@ maibahe300cc.com
 maidngl.com
 maihalertonlinealer.com
 maiicenterteam.000webhostapp.com
-maik.ff-bt.net
 mail3x.com
 mail-ads.google.com
 mailcom.date
@@ -21133,7 +21137,6 @@ market.facebook.hyperionslg.com
 marketing.888.com
 marketing.alibaba.com
 marketing.dropbox.com
-marketinghub.hp.com
 marketing.kalahari.net
 marketing.net.jumia.com.ng
 marketing.nodesource.com
@@ -21345,7 +21348,6 @@ mcvsewse.esy.es
 mc.weather.com.cn
 mc.webvisor.com
 mc.webvisor.org
-mc.webvisor.ru
 mc.yandex.ru
 m.cyberplusserice.banquepopulaire.fr.alpes.icgauth.websso.bp.13806.emparecoin.ro
 md0z4dh.com
@@ -21372,7 +21374,6 @@ mdwyerle.myhostpoint.ch
 mearrs.com
 measure.ameblo.jp
 measurementaz.com
-measure.office.com
 meatspin.biz
 mebankonline.com
 mebel11septemvri.com
@@ -21625,7 +21626,6 @@ metmt.com
 metodistapg.com.br
 metodologianui.uni5.net
 metric-agent.i10c.net
-metric.gstatic.com
 metric.inetcore.com
 metric.nwsource.com
 metrics.apartments.com
@@ -21633,20 +21633,16 @@ metrics-api.dimensions.ai
 metrics.api.drift.com
 metrics-api.librato.com
 metrics.aviasales.ru
-metrics.aws.sitepoint.com
 metrics.bangbros.com
 metrics.brightcove.com
 metrics.cbn.com
 metrics.cbslocal.com
-metrics.chmedia.com
 metrics.cnn.com
 metrics.ctvdigital.net
-metrics.dailymotion.com
 metrics.ee.co.uk
 metrics.el-mundo.net
 metrics.extremetech.com
 metrics.feedroom.com
-metrics.loomia.com
 metrics.n-tv.de
 metrics.readme.io
 metrics.scribblelive.com
@@ -21882,8 +21878,6 @@ ministeriointernacionalyashuahadulam.org
 ministryaffiliation.org
 miniye.xjts.cn
 minospesial.id
-mint.boingboing.net
-mint.good.is
 mipagoservicio.com
 mipareministries.org
 mipichincha10.webcindario.com
@@ -21933,7 +21927,6 @@ misterpad.com
 misura.com
 mitchell.raakstaging.com
 mite.ac.in
-mitel.marketbright.com
 mitotach.com
 mitouxoo.net
 mitsubishimotorsvn.com
@@ -21948,6 +21941,7 @@ miyetherwallet.com
 miza-eg.com
 mizahturk.com
 mizori5i.beget.tech
+mj23.eulerian.com
 mjaey.saqibsiddiqui.com
 mjfuntime.co.uk
 mjita.cn
@@ -22000,7 +21994,6 @@ mmm.theweek.co.uk
 mmobitech.com
 mmonius4spz75qszqq0s.littlematchagirl.com.au
 mmpnierhio.com
-mmpstats.mirror-image.com
 mmpuh.cn
 mmrj.entadsl.com
 mmroom.in
@@ -22361,7 +22354,6 @@ mpmmdphd.000webhostapp.com
 mporli.info
 mporthi.com
 mpottgov0001-001-site1.1tempurl.com
-mp.pianomedia.eu
 mpqfzyh.com
 mprcseal.com
 mpsgfilms.ca
@@ -22370,7 +22362,6 @@ mpsplates.com
 mpsschool.edu.bd
 mps.yuwenba.cn
 mp-tagak.000webhostapp.com
-mp.twitch.tv
 mqbdledibcehvaflxwgs.ahdaaf.org
 mqcwr.cn
 mqgpo.com
@@ -22446,12 +22437,10 @@ mtfreshfoods.com
 mtmgaustralia.com.au
 mtmoriahcogic.org
 mtnet.ro
-mtoza.vzaar.com
 mtquiz.blufysh.com
 mtqys.com
 mtr2000.net
 m.trb.com
-mtrcs.samba.tv
 mtrytj.download
 mtsnu-miftahululum.sch.id
 mts-ws.rueducommerce.fr
@@ -23045,7 +23034,6 @@ naveenmechanical.com
 naver-i.review
 navigearinc.com
 navi.seapost.gcmar.com
-navlog.channel4.com
 nawec.gm
 nawikib.co.vu
 nazamarket.net
@@ -23742,7 +23730,6 @@ nsnmiaomu.cn
 nsplawmod.ac.in
 nspsjadugoda.com
 ns.rvmkitt.com
-nstat.tudou.com
 nsxtob.cn
 nt002.cn
 ntaconsultores.com
@@ -23793,7 +23780,6 @@ nv-1acc.online
 nv43.com
 nv-acc1.online
 nv-acc.online
-nvc.n1bus-exp.com
 nvcolsonfab.ca
 nvgbtqxkowap.pw
 nvlegal.co.za
@@ -23951,7 +23937,6 @@ offended.feenode.net
 offensive-fb.000webhostapp.com
 offer002.dimplexx.net
 offer.dimplexx.net
-offermatica.intuit.com
 offer-paypel.ml
 offers99world.com
 offficeworkshop.000webhostapp.com
@@ -24091,7 +24076,6 @@ oluwanidioromi.com
 olxt.top
 olyjune.com
 olympusacademy.ae
-om.1and1.co.uk
 omaceran.pw
 omafaren.pw
 omafay.com
@@ -24360,7 +24344,6 @@ optanon.blob.core.windows.net
 opticguardzip.net
 optikhani.co.id
 optimasportsperformance.com.au
-optimera.elasticbeanstalk.com
 optimize-stats.voxmedia.com
 options-nisoncandlesticks.com
 optivasecurity.000webhostapp.com
@@ -24628,7 +24611,6 @@ pageinfo.motorsport.com
 pageissecured2017.com
 page.limited.account.page-console.ml
 pagepolice-help.com
-pagerank.g-easy.hu
 pages-actv2016.twomini.com
 pages-advertment-suppor-facebook.16mb.com
 pages-dabong.000webhostapp.com
@@ -24654,7 +24636,6 @@ page-update-id338102.com
 page-update-id458102.com
 page-verifysuspicious.com
 pageviadropline-documentshareclienthtmlinformationredirection.droppages.com
-pageview.goroost.com
 pageviolation2017.cf
 page-your-disabled.tk
 paginaswebenbuenosaires.com
@@ -24839,7 +24820,6 @@ partners.pmu.fr
 partners.pornerbros.com
 partners.rochen.com
 partners.sportingbet.com.au
-partners.thefilter.com
 partners.tremorhub.com
 partners.vouchedfor.co.uk
 partners.xpertmarket.com
@@ -24871,7 +24851,6 @@ passmycode.co.za
 pass-nepal.org.np
 passportblues.ru
 passport.pfn.bz
-passul.t-online.de
 passwz.com
 pastoracamila.com.br
 pastoupt.com
@@ -25273,7 +25252,6 @@ pdinteriors.co.ke
 pdk.lcn.cc
 pdkuai.com
 pdmcwrtkhvb.mottbuilding.com
-p.dsero.net
 pdsjycm.com
 pdstexas.net
 peakpharmaceuticals.com.au
@@ -25294,7 +25272,6 @@ pednanet.servicos.ws
 pedokinetika.si
 pedromerla.com
 peehotim.com
-peermapcontent.affino.com
 peevopoy.com
 pegasocyc.com.mx
 pegasusprops.co.za
@@ -25456,7 +25433,6 @@ pftdxepbgk.yaminahmad.com
 pfv1.com
 pg-ad-b1.nosdn.127.net
 p.gazeta.pl
-pg.buzzfeed.com
 pgh76i5ya5.com
 pginludhiana.com
 pgocg.com
@@ -25564,7 +25540,6 @@ picturedrop.d1688.net
 picturepof.com
 pictureshouse.gq
 pictures.myownnewpics.com
-pictures.zooplus.com
 pieaa.com
 piecehigh.net
 pieceleft.net
@@ -25589,26 +25564,21 @@ pinckardpyote.com
 pinddanatgaya.com
 pinecliffspremierclub.com
 pineks.pl
-ping.aclst.com
 pingback.giphy.com
 pingback.issuu.com
 pingback.sogou.com
 pingbi.diudou.com
-ping.buto.tv
 ping-dot-acp-magento.appspot.com
 ping.dozuki.com
 ping.hellobar.com
 ping.hungama.com
 pingjs.qq.com
 pingmyhobbit.co.uk
-ping.rasset.ie
 pings.blip.tv
 pings.conviva.com
 ping.smyte.com
-pings.reembed.com
 pings.vidpulse.com
 pingting.biz
-ping.tvmaze.com
 pinguimdejulho.com
 pinkdreaminc.us
 pinkmore.cn
@@ -25664,9 +25634,7 @@ pixel-a.basis.net
 pixel.anyclip.com
 pixel.bild.de
 pixel.blivenyc.com
-pixel.buzzfeed.com
 pixel.cdnwidget.com
-pixel.colorupmedia.com
 pixel.condenastdigital.com
 pixel.cpex.cz
 pixel.digitalspy.co.uk
@@ -25675,21 +25643,16 @@ pixel.europapress.net
 pixel.facebook.com
 pixel.fanbridge.com
 pixel.glimr.io
-pixel.holtzbrinckdigital.info
 pixel.homebook.pl
 pixel.honestjohn.co.uk
-pixel.klout.com
 pixel.naij.com
-pixel.nbsp.de
 pixel.newscgp.com
 pixel.newscred.com
-pixel.newsdata.com.au
 pixel.newsdiscover.com.au
 pixel.pcworld.com
 pixel.propublica.org
 pixel.prosieben.de
 pixel.reddit.com
-pixel.redditmedia.com
 pixel.roymorgan.com
 pixel.s3xified.com
 pixel-secure.solvemedia.com
@@ -25703,23 +25666,18 @@ pixel-static.spotify.com
 pixel.tree.com
 pixel.tuko.co.ke
 pixeluae.ae
-pixel.usrsync.com
-pixel.vmm-satellite2.com
 pixel.widgetly.com
 pixel.wp.com
 pixel.wp.pl
-pixel-xpanama.netdna-ssl.com
 pixel.yabidos.com
 pixel.yola.com
 pixel.zumby.io
-pix.friendscout24.de
 pix.gfycat.com
 pixie-beauty.com
 pixiedust.buzzfeed.com
 pixiesfly.com
 pix.impdesk.com
 pix.nbcuni.com
-pix.news.at
 pix.telekom.de
 pizzotti.net
 pjatendimentopersonalizado.com
@@ -25919,9 +25877,7 @@ pompazilla.com
 pompenation.com
 pondokalkes.com
 pondroadsouthselfstorage.com
-pong.gannettdigital.com
 pongpitiphosgraphe.net
-pong.production.gannettdigital.com
 ponnusmats.com
 pontevedrabeachsports.com
 pontofrio.ofertasdodia.ml
@@ -26036,7 +25992,6 @@ potws.ga
 pougg.com
 poulgilan.com
 poumanpeaux.ga
-pound.buzzfeed.com
 pou-pie-osa.com
 pousadacasadoangelo.com.br
 pousadapontalparaty.tur.br
@@ -26274,10 +26229,8 @@ prodeporte.com.gt
 prodirectcentr.ru
 prodirectinfo.ru
 prodirectstore.ru
-prod-metro-collector.cloudapp.net
 prodownload.newbetakey.com
 production.airswap.io
-production-eqbc.lvp.llnw.net
 production.mcs.delve.cust.lldns.net
 production-mcs.lvp.llnw.net
 productivityboss.bid
@@ -26581,7 +26534,6 @@ pukrazopchatka.com
 puliyampillynamboothiri.com
 pulp99.com
 pulsarchallengeforum.com
-pulse-analytics-beacon.reutersmedia.net
 pulse-energy.co.uk
 pulsepublishing.com.au
 pulsewebhost.com
@@ -26657,7 +26609,6 @@ putrr11.com
 putunlogstashdma.net
 puzwb.cn
 puzzlesgaming.com
-pv.csdn.net
 pvgsaroc.org.tw
 pv.hd.sohu.com
 pv.ltn.com.tw
@@ -26684,7 +26635,6 @@ pwssbxhamnxvh.pw
 pwwvpuwvwpiftlbcn1uh.littlematchagirl.com.au
 px0ihffhra.bradul.creatory.org
 px1alsry.com
-px.247inc.net
 px69z.cn
 px.boundhub.com
 pxc.otto.de
@@ -26697,7 +26647,6 @@ px.marchex.io
 px.mvfglobal.com
 px.owneriq.net
 pxrbl.megafilms.me
-px.reactrmod.com
 px.spiceworks.com
 px.staticfiles.at
 px.topspin.net
@@ -26873,7 +26822,6 @@ qoiusky.com
 qoldensign.net
 qoredi.com
 qorrs.saqibsiddiqui.com
-qos.video.yimg.com
 qo-zeesel.ml
 qo-zeesel-qo.cf
 qo-zeseel-qo.ga
@@ -27085,7 +27033,6 @@ rahmadillahi.id
 raidcomasia.my
 rail.us
 rainb00-scama.revupnet.com
-rainbow-uk.mythings.com
 rainerfingerle.com
 rainfinemalawi.com
 rainsoul.com.tw
@@ -27138,7 +27085,6 @@ rangerfn13.000webhostapp.com
 ranjau88.heliohost.org
 rankainteriors.co.in
 rankinchemicaltech.com
-ranking.ynet.com
 ransefti.com
 ransomware-alert.secure-server-alert.info
 raosgroups.com
@@ -27242,7 +27188,6 @@ rdgtech.com
 rdiqt.cn
 rd.jiguangie.com
 rdmadrasah.edu.bd
-rd.meebo.com
 rdnetworkdesign.co.uk
 rdnrns.com
 rdovicia.my-tube-expert.ru
@@ -27418,7 +27363,6 @@ re-fb.000webhostapp.com
 refconstruct.com
 referential-bulkhea.000webhostapp.com
 referer.pixplug.in
-refer.evine.com
 referrer.disqus.com
 reffermetocasenumber78858850885id.okime09979hdhhgtgtxsgvdoplijd.rakuemouneu.com
 refispokane.com
@@ -27583,21 +27527,15 @@ repmaeist.usa.cc
 reportajesadomicilio.com
 reportantu.info
 report-case98918951.com
-report.downloastar.com
 reported-account-unblocking.com
 reporting.flymonarch.com
 reporting.handll.net
-reportinglogger.my.rightster.com
-reporting.onthebeach.co.uk
 reporting.singlefeed.com
 reporting.theonion.com
-reporting.wilkinsonplus.com
 reportinstagram.com
 report.meituan.com
 report.qq.com
-report.shell.com
 report-sign.xyz
-reports.maxperview.com
 reports.pagesuite-professional.co.uk
 reportwebmaster.000webhostapp.com
 reportyouraccountissues.000webhostapp.com
@@ -27948,7 +27886,6 @@ rohitshukla.com
 roidatuddiana.id
 roi.ediscom.it
 roiornfvclppad.com
-roitrack.addlvr.com
 rojakculture.com
 rojgarexchange.in
 rok.com.com
@@ -28169,7 +28106,6 @@ rvwsculpture.com
 rvwvzw.com
 rwjfs.com
 rwtflhwsdlme.bid
-rwt.reichelt.de
 rx616.cn
 rx-healthmart.com
 rxjpxuj4hf0gvrajpsrr.alfacomercial.com.br
@@ -28917,6 +28853,7 @@ sdabfw.cn
 sdagxz.xyz
 sdahxz.xyz
 sdaiv.com
+sdaixz.xyz
 sda.online-systemy.cz
 sda.quinews.net
 sdarotil.top
@@ -30972,7 +30909,6 @@ statistics.wibiya.com
 statistic.takungpao.com
 statistik.simaja.de
 stat.iteye.com
-stat.itp-nyc.com
 stat.kbs.co.kr
 stat.matichon.co.th
 stat.mixi.media
@@ -31225,6 +31161,7 @@ stitchandswitch.com
 stitchgrrl.com
 stivencardenas1208.000webhostapp.com
 stjameselmira.ca
+st.linkfire.com
 stlouis.sla.org
 stmatthewsnj.org
 stn88.com
@@ -31880,6 +31817,7 @@ t2ualmnw.com
 t3rmiinal.xyz
 t3rminall.pw
 t3t0je3qiqqt03u.bid
+t415n.cn
 t4e.org
 t4kpodau1mllxysswvrjqzww.trade
 t5hkmjkmhfae.com
@@ -32228,6 +32166,7 @@ telecreditoviabcp.com
 telecrepx.com
 telefonanlagen.televis.at
 telefonosalmayor.com.ve
+telegraph.api.hbo.com
 teleikjewr.cn15669.tmweb.ru
 telekom-onlines.webs.com
 telekomtonline-updateaccount.rhcloud.com
@@ -32807,6 +32746,7 @@ tm.tradetracker.net
 tm.uol.com.br
 tm.vendemore.com
 t.nativendo.de
+tngmn.com
 tnla.thenewslens.com
 tnlconstruction.com
 tns.simba.taobao.com
@@ -33646,6 +33586,7 @@ twistpub.com.br
 twitter-badges.s3.amazonaws.com
 twitterzs.com
 twittter.hol.es
+t.wizaly.com
 twk20rw5v1.com
 twldmx.com
 twniwcnayraxtpljgwp.net
@@ -34535,7 +34476,6 @@ vempracaixa.info
 vencedoronline.com
 venczer.com
 vendas-499-90.esy.es
-vendor1.fitschigogerl.com
 veningew.info
 venkatsubramaniam.ga
 venonita.com
@@ -34958,7 +34898,6 @@ vk87557876-video.hol.es
 vk8hhc7ujs.castlemedicolegal.com
 vk-activation.esy.es
 vkadmin.info
-vkafirac.com
 vkanime1.000webhostapp.com
 vkantakte.ga
 vkantaktte.000webhostapp.com
@@ -35076,7 +35015,6 @@ voicezofficial.com
 voirfichier-orange.com
 volam1vn.com
 volgdestappen.roxweb.fr
-volimole.com
 volpefurniture.com
 voluntarybenefitscertification.com
 volvejudgetneig.info
@@ -36742,6 +36680,7 @@ xhxnkyy.com
 xhydrs.cn
 xi0021.com
 xi1111.com
+xiadaxiong.com
 xiakelea.com
 xiald.com
 xiang7.vip
@@ -36915,6 +36854,7 @@ xn--wxt79hbyb675a.online
 xn--wxtr9fwyxk9c.site
 xn--wxtr9fwyxk9c.top
 xn--wxtr9fwyxk9c.xn--io0a7i
+xn--xhq9mt12cf5v.ink
 xn--xhq9mt12cf5v.ren
 xn--xhq9mt12cf5v.shop
 xn--xhq9mt12cf5v.site
@@ -37760,6 +37700,7 @@ zgopxgi9uqlgoioatuuc.littlematchagirl.com.au
 zgrsq.cn
 zgsjfo.com
 zgsxhx.com
+zgtcar.com
 zgunion.cn
 zgxerolbopwon.com
 zgyemy.com
