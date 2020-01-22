@@ -1026,7 +1026,6 @@
 60aalexandrastreetcom.domainstel.org
 60l3j5wg.myutilitydomain.com
 60sectech.com
-61.147.184.18
 61.152.223.15
 61.174.50.211
 612045126.htmldrop.com
@@ -8218,6 +8217,7 @@ collector.viki.io
 collector.wallapop.com
 collect.rewardstyle.com
 collect.tianya.cn
+collect.usefathom.com
 colleduny.info
 colleenoakley.com
 collegesavngsiowa.com
@@ -9606,6 +9606,7 @@ d3elm8wezzwg42.cloudfront.net
 d3f4u3khr0ycep.cloudfront.net
 d3fqhkmofpujs3.cloudfront.net
 d3hitamb7drqut.cloudfront.net
+d3hs51abvkuanv.cloudfront.net
 d3hwh14livah35.cloudfront.net
 d3i1asoswufp5k.cloudfront.net
 d3id4jppiyyek8.cloudfront.net
@@ -20929,6 +20930,7 @@ majuhome.com.my
 make-32.in
 make-33.in
 makebitcoin.science
+make.cohesionapps.com
 makeitaccess.com
 makeitandshakeit.webcindario.com
 makemoneyfreebies.com
@@ -24558,19 +24560,14 @@ p0stepay-it.com
 p0stepay-p0ste-it-start-lista-m0vimenti-accedi-utent001928.25u.com
 p1.zhongyoo.com
 p1.zhumengwl.com
-p2.dnvod.tv
 p2nindonesia.com
 p388851.mittwaldserver.info
 p3b.or.id
-p3.dnvod.tv
 p3p.com.au
 p3tt.com
 p3wm16ssqh.no1webmaster.com
-p4.dnvod.tv
 p4p.sina.com.cn
 p4yp41.moldex.cl
-p5.dnvod.tv
-p6.dnvod.tv
 p.7060.la
 p74.cc
 p7uln5towbuozltok5nj.maherstcottage.com.au
@@ -26495,7 +26492,6 @@ ptuon.saqibsiddiqui.com
 pturesults.in
 ptw.la
 pub1.cope.es
-pub1.dnvod.tv
 pub2.cdn.webmanagercenter.com
 pub2.webmanagercenter.com
 pub.admedia.io
@@ -28152,9 +28148,6 @@ rzmarinesafety.com
 s06th.cn
 s0c572u6iu4x3b05rdso.alfacomercial.com.br
 s0e3nwd7mhf45sghuds3.businessrulesanalysis.com
-s1-a1.dnvod.tv
-s1-a2.dnvod.tv
-s1-a3.dnvod.tv
 s1.dapenti.com
 s1.dugoogle.com
 s1.hiapk.com
@@ -35159,6 +35152,7 @@ vwxwhbsqh0a4fg2mbhuf.maherstcottage.com.au
 vx85czcixb.byggrakt.se
 vxhft.saqibsiddiqui.com
 vxsgcfxr.beget.tech
+vxsnk.com
 vy4e3jw46l.com
 vy74i.cn
 vyngoctuong.com
