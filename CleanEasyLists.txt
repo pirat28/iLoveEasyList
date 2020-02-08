@@ -149,6 +149,7 @@
 1010fz.com
 1017.cn
 101.boquan.net
+1.01fy.cn
 101homeschool.com
 101view.net
 101wsxzsa1.club
@@ -5381,6 +5382,7 @@ beacon.gu-web.net
 beacon.heliumnetwork.com
 beacon.indieclick.com
 beacon.indieclicktv.com
+beacon.itmedia.jp
 beacon.livefyre.com
 beacon.lycos.com
 beacon.netflix.com
@@ -8349,7 +8351,6 @@ commonwealthcpr.com
 commonwewalth.com.au.schoellershop.com
 commotional-halls.000webhostapp.com
 commportementsagissementsasmsa.com
-commsvc.geo.de
 commsvc.stern.de
 community-info.xyz
 com-myaccount-control.com
@@ -18152,6 +18153,7 @@ jinghuazhijia.com
 jinglongtang.cn
 jingoulong.cn
 jingxiangyalvji.cn
+jinhonghao.cn
 jinicettp.com
 jinriyunlian.com
 jinshasi.cn
@@ -20259,6 +20261,7 @@ lmccm.marcconstructora.com
 lmco.in
 lmfdaoefn.com
 lmhorse.se
+lm.ijq.tv
 lmlghtycps.me
 l.m.naver.com
 lmoojjaukhqupmlh.xyz
@@ -21742,7 +21745,6 @@ metric-agent.i10c.net
 metric.inetcore.com
 metric.nwsource.com
 metrics.apartments.com
-metrics-api.dimensions.ai
 metrics.api.drift.com
 metrics-api.librato.com
 metrics.aviasales.ru
@@ -22536,6 +22538,7 @@ mswiner0x00021032817.club
 mswiner0x000280040617.club
 mswiner1rr0x022217.club
 mswxtlhqor.com
+mt.59wz.com
 mtag.mman.kr
 mtalk2.mannishtalk.com
 m.tamilmalls.com
@@ -25687,6 +25690,7 @@ pingjs.qq.com
 pingmyhobbit.co.uk
 pings.blip.tv
 pings.conviva.com
+pingshu365.xyz
 ping.smyte.com
 pings.vidpulse.com
 pingting.biz
@@ -35286,6 +35290,7 @@ vxsnk.com
 vy4e3jw46l.com
 vy74i.cn
 vyngoctuong.com
+vyule.com
 vyvqkkiowkacbrcg.pw
 vz71j.cn
 vzoxq97oyvwuvg8u5jmotokpf0.download
@@ -35315,6 +35320,7 @@ w88.go.com
 w8thcykwz8ydssliuvs.trade
 waby66.cn
 wac.a164.taucdn.net
+wacc888.com
 wachipho.net
 wachtmeester.nu
 wacsltd.tk
