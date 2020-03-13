@@ -2882,6 +2882,7 @@ aliguojw.com
 aliipage.hostingsiteforfree.com
 alimama.alicdn.com
 alimb.top
+alimc1.top
 alimen.webcindario.com
 ali-moghadam.ir
 alincortinajes.cl
@@ -3360,6 +3361,7 @@ analytics.mindjolt.com
 analytics.mlstatic.com
 analytics.mouthshut.com
 analytics.moviepilot.de
+analytics.myfidevs.io
 analytics.myfinance.com
 analytics.newscred.com
 analytics.ngfiles.com
@@ -4906,6 +4908,7 @@ backup-recovery34.xyz
 backup-recovery35.xyz
 backup-recovery36.xyz
 ba.commentcamarche.net
+bacon.section.io
 ba.copainsdavant.com
 bacucredicoop.com
 badaonz.com
@@ -8417,6 +8420,7 @@ collector.mazeberry.com
 collector-medium.lightstep.com
 collector.nextguide.tv
 collector.prod.expedia.com
+collector-px0py5pczn.octopart.com
 collector.roistat.com
 collector.schibsted.io
 collector.sspinc.io
@@ -10703,6 +10707,7 @@ df888.eastday.com
 df8c5028a1fad1.com
 df8li6at9c.com
 dfanalytics.dealerfire.com
+dfapvmql-q.global.ssl.fastly.net
 dfasghsd.zecotilss.bid
 dfck9uqiatqhh.cloudfront.net
 dfclamp.com
@@ -11367,6 +11372,7 @@ dpic.webcindario.com
 dpiw925yvtpfq.cloudfront.net
 dpjszs.com
 dpm.bluray-disc.de
+dp.shoprunner.com
 dpsq2uzakdgqz.cloudfront.net
 dpw.co.id
 dqemqcbxgofddopclb.com
@@ -21029,6 +21035,7 @@ logs.51cto.com
 logs-api.shoprunner.com
 logsbin.dantri.com.vn
 logs.dashlane.com
+logs.datadoghq.com
 log.seekda.com
 logs.gaana.com
 logs.ggweb.nl
@@ -28661,6 +28668,7 @@ rmwdn.com
 r.my.com
 rnb51.com
 rnconsultoriaeprojetos.com.br
+rndntpmgnj-a.akamaihd.net
 rnhbhnlmpvvdt.com
 rn.hkfklflkggnow.com
 rnqdlprwd.pw
@@ -30362,6 +30370,7 @@ sgikjkjftfg.webstarterz.com
 sgmnt.ticketswap.com
 sgmoneycollections.com
 sgpes.trt11.jus.br
+sgphctileh-a.akamaihd.net
 sgqcvfjvr.onet.pl
 sg-sst.org
 sguac.com
@@ -32842,6 +32851,7 @@ talentwm.com
 talismjinder.com
 tallahasseespeechcenter.verityjane.net
 tallergestion.com
+t.allmodern.com
 tally-education.com
 talweg.com.br
 tamanas.com
@@ -33670,6 +33680,7 @@ tj-cmys.com
 tjgxzs.com
 tjhhr.com
 tjiaa.com
+t.jossandmain.com
 tjqonline.cn
 tjshuimu.com
 tjssgdxyxh.fgppchg.fgpp.com
@@ -33722,6 +33733,8 @@ tmlloyd.com
 tmmjgcp.cn
 tm-offers.gamingadult.com
 tmrmixer.cn
+tms.eharmony.ca
+tms.eharmony.co.uk
 tms-st.cdn.ngenix.net
 tmtoys.com.vn
 tm.tradetracker.net
@@ -34570,6 +34583,7 @@ tvnamu2.com
 tvnothbrwbsxkvmqvtfc.org
 tvoetbjrby.com
 tvthsvxbbbfwcyldo.com
+t.wayfair.ca
 t.wayfair.com
 t.wayfair.co.uk
 t.wayfair.de
@@ -34749,6 +34763,7 @@ uhlandstrasse.de
 uhor8.cn
 uhqweueqovu4jq5qk3qu.mbservicesyorkshire.co.uk
 u.huoying666.com
+uhytajrtpo-a.akamaihd.net
 uhzgftmjan6avtcvkrhu.littlematchagirl.com.au
 ui91q.cn
 uiaolsmnydtrsa.co
