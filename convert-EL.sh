@@ -1,13 +1,13 @@
 ##########################################################################
 #
 # EasyList List generator
-# Version 1.6
+# Version 1.7
 #
 #
 
 
 echo "\n----------------------------\n- EasyList List Generator\n----------------------------"
-echo "Version 1.6\n"
+echo "Version 1.7\n"
 
 ##########################################################################
 #
@@ -33,15 +33,14 @@ sort -u adblock.unsorted | grep ^\|\|.*\^$ | grep -v \/ > adblock.sorted
 
 echo "- Removing unwanted chars... "
 
-sed 's/[\|^]//g' < adblock.sorted > EasyLists.txt
-
-sed '/*/d' EasyLists.txt > CleanEasyLists.txt
+sed 's/[\|^]//g;s/:.*//;/*/d' < adblock.sorted > CleanEasyLists.txt
 
 # Remove shadow files
 
 echo "- Removing shadow files... \n"
 
-rm adblock.unsorted adblock.sorted EasyLists.txt
+rm adblock.unsorted adblock.sorted
+
 
 # End Message
 
